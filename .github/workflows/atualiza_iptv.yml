@@ -1,0 +1,44 @@
+name: Atualizador Automatico de Canais IPTV
+
+on:
+  schedule:
+    # Executa a cada 6 horas automaticamente na nuvem
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Permite disparo manual com um clique no GitHub Actions
+
+jobs:
+  validate-and-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Permissão para commitar a lista atualizada
+
+    steps:
+      - name: Checkout do Repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Ambiente Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Instalar Dependências
+        run: |
+          python -m pip install --upgrade pip
+          pip install aiohttp
+
+      - name: Executar Validador Inteligente na Nuvem
+        run: |
+          python cloud_validator.py
+
+      - name: Fazer Commit e Push da Lista Atualizada
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add lista_premium.m3u lista_premium.json
+          if git diff --staged --quiet; then
+            echo "Nenhuma alteração na lista de canais."
+          else
+            git commit -m "chore(iptv): atualizacao automatica lista_premium [skip ci]"
+            git push
+          fi
