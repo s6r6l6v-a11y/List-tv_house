@@ -10,3 +10,4 @@ Bot automático de validação e entrega da lista IPTV premium para o aplicativo
    - `lista_premium.m3u`
    - `lista_premium.json`
 4. O app **House Alves TV** na Smart TV LG lê diretamente os canais validados deste repositório sem consumir a RAM do computador.
+
