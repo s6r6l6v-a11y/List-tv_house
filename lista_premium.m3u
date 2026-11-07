@@ -65,8 +65,12 @@ http://45.162.64.114/TV_APARECIDA/index.m3u8
 http://45.162.64.114/TV_BRASIL/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Brasil Oeste (720p)" tvg-logo="" group-title="TV Aberta",TV Brasil Oeste (720p)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Cultura" tvg-logo="" group-title="TV Aberta",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Cultura (720p)" tvg-logo="" group-title="TV Aberta",TV Cultura (720p)
 http://45.162.64.114/TV_CULTURA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Câmara (1080p)" tvg-logo="" group-title="TV Aberta",TV Câmara (1080p)
+https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Gazeta (720p)" tvg-logo="" group-title="TV Aberta",TV Gazeta (720p)
 http://45.162.64.114/TV_GAZETA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Senado (720p)" tvg-logo="" group-title="TV Aberta",TV Senado (720p)
@@ -451,6 +455,8 @@ https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Rural (720p)" tvg-logo="" group-title="Variedades",Canal Rural (720p)
 http://170.83.49.66:8083/CANALRURALHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sete" tvg-logo="" group-title="Variedades",Canal Sete
+http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal UOL (1080p)" tvg-logo="" group-title="Variedades",Canal UOL (1080p)
 https://video24.mais.uol.com.br/live/6146.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Catve FM (720p) [Not 24/7]" tvg-logo="" group-title="Variedades",Catve FM (720p) [Not 24/7]
@@ -567,6 +573,8 @@ https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
 https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Aliança Catarinense (720p)" tvg-logo="" group-title="Variedades",TV Aliança Catarinense (720p)
 https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Alternativa (410p)" tvg-logo="" group-title="Variedades",TV Alternativa (410p)
+https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Bahia (1080i)" tvg-logo="" group-title="Variedades",TV Bahia (1080i)
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Brusque (720p)" tvg-logo="" group-title="Variedades",TV Brusque (720p)
@@ -587,8 +595,6 @@ https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8
 http://45.162.64.114/EVANGELIZAR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Fronteira (480i)" tvg-logo="" group-title="Variedades",TV Fronteira (480i)
 https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Grande Natal (1080p)" tvg-logo="" group-title="Variedades",TV Grande Natal (1080p)
-http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Guarapari (720p)" tvg-logo="" group-title="Variedades",TV Guarapari (720p)
 https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Guará (720p) [Not 24/7]" tvg-logo="" group-title="Variedades",TV Guará (720p) [Not 24/7]
@@ -599,6 +605,8 @@ http://45.162.64.114/TV_JUSTICA/index.m3u8
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Litoral RN (720p)" tvg-logo="" group-title="Variedades",TV Litoral RN (720p)
 https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Mais Maricá (1080p)" tvg-logo="" group-title="Variedades",TV Mais Maricá (1080p)
+https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Marajoara (720p)" tvg-logo="" group-title="Variedades",TV Marajoara (720p)
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Metropole (720p) [Not 24/7]" tvg-logo="" group-title="Variedades",TV Metropole (720p) [Not 24/7]
