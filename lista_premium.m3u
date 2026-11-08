@@ -27,8 +27,6 @@ https://jmp2.uk/plu-681110afc188aa63faa147e0.m3u8
 https://play.mbcbrasil.tv.br/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RACER Brasil (720p)" tvg-logo="" group-title="TV Aberta",RACER Brasil (720p)
 https://jmp2.uk/plu-65a6818c7bdc8d0008457b21.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil (1080p)" tvg-logo="" group-title="TV Aberta",Rede Brasil (1080p)
-https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RedeTV! Parana" tvg-logo="" group-title="TV Aberta",RedeTV! Parana
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RIT TV (1080p)" tvg-logo="" group-title="TV Aberta",RIT TV (1080p)
@@ -65,8 +63,14 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 http://45.162.64.114/TV_APARECIDA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Brasil (720p)" tvg-logo="" group-title="TV Aberta",TV Brasil (720p)
 http://45.162.64.114/TV_BRASIL/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Brasil Oeste (720p)" tvg-logo="" group-title="TV Aberta",TV Brasil Oeste (720p)
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Cultura" tvg-logo="" group-title="TV Aberta",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Cultura (720p)" tvg-logo="" group-title="TV Aberta",TV Cultura (720p)
 http://45.162.64.114/TV_CULTURA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Câmara (1080p)" tvg-logo="" group-title="TV Aberta",TV Câmara (1080p)
+https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Gazeta (720p)" tvg-logo="" group-title="TV Aberta",TV Gazeta (720p)
 http://45.162.64.114/TV_GAZETA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Senado (720p)" tvg-logo="" group-title="TV Aberta",TV Senado (720p)
@@ -503,6 +507,8 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 https://igrejamundial.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ISTV (720p) [Not 24/7]" tvg-logo="" group-title="Variedades",ISTV (720p) [Not 24/7]
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KpopTV Play (576p)" tvg-logo="" group-title="Variedades",KpopTV Play (576p)
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="L!ke (1080p)" tvg-logo="" group-title="Variedades",L!ke (1080p)
 https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lamore Rock Show WebTV (720p)" tvg-logo="" group-title="Variedades",Lamore Rock Show WebTV (720p)
@@ -521,12 +527,6 @@ https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Play TV (720p)" tvg-logo="" group-title="Variedades",Play TV (720p)
 http://45.162.64.114/PLAY_TV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Plena TV (720p)" tvg-logo="" group-title="Variedades",Plena TV (720p)
-https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Plenitude TV" tvg-logo="" group-title="Variedades",Plenitude TV
-https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Primer TV (1080p)" tvg-logo="" group-title="Variedades",Primer TV (1080p)
-http://200.194.238.229:8383/live/primer/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RBATV (720p)" tvg-logo="" group-title="Variedades",RBATV (720p)
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RecordTV" tvg-logo="" group-title="Variedades",RecordTV
@@ -589,6 +589,8 @@ https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8
 http://45.162.64.114/EVANGELIZAR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Fronteira (480i)" tvg-logo="" group-title="Variedades",TV Fronteira (480i)
 https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Grande Natal (1080p)" tvg-logo="" group-title="Variedades",TV Grande Natal (1080p)
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Guarapari (720p)" tvg-logo="" group-title="Variedades",TV Guarapari (720p)
 https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Guará (720p) [Not 24/7]" tvg-logo="" group-title="Variedades",TV Guará (720p) [Not 24/7]
