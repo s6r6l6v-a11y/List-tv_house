@@ -23,6 +23,8 @@ http://170.83.49.66:8083/FUTURAHD/index.m3u8
 https://jmp2.uk/plu-681111be5e0764e297fb200e.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MasterChef Brasil Profissionais" tvg-logo="" group-title="TV Aberta",MasterChef Brasil Profissionais
 https://jmp2.uk/plu-681110afc188aa63faa147e0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC Brasil TV" tvg-logo="" group-title="TV Aberta",MBC Brasil TV
+https://play.mbcbrasil.tv.br/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RACER Brasil (720p)" tvg-logo="" group-title="TV Aberta",RACER Brasil (720p)
 https://jmp2.uk/plu-65a6818c7bdc8d0008457b21.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Brasil (1080p)" tvg-logo="" group-title="TV Aberta",Rede Brasil (1080p)
@@ -65,6 +67,8 @@ http://45.162.64.114/TV_APARECIDA/index.m3u8
 http://45.162.64.114/TV_BRASIL/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Brasil Oeste (720p)" tvg-logo="" group-title="TV Aberta",TV Brasil Oeste (720p)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Cultura" tvg-logo="" group-title="TV Aberta",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Cultura (720p)" tvg-logo="" group-title="TV Aberta",TV Cultura (720p)
 http://45.162.64.114/TV_CULTURA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Gazeta (720p)" tvg-logo="" group-title="TV Aberta",TV Gazeta (720p)
@@ -77,8 +81,6 @@ https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
 https://jmp2.uk/plu-62310f66d5888f0007534342.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Euronews Portuguese (720p)" tvg-logo="" group-title="Notícias",Euronews Portuguese (720p)
 https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="J3NEWS TV" tvg-logo="" group-title="Notícias",J3NEWS TV
-https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Record News (720p)" tvg-logo="" group-title="Notícias",Pluto TV Record News (720p)
 https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record News (720p)" tvg-logo="" group-title="Notícias",Record News (720p)
@@ -247,8 +249,6 @@ https://jmp2.uk/plu-63eba189c111bc0008ff59c5.m3u8
 https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV Biggest Pop (1080p)" tvg-logo="" group-title="Pluto TV",MTV Biggest Pop (1080p)
 https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV Catfish (720p)" tvg-logo="" group-title="Pluto TV",MTV Catfish (720p)
-https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV Com o Ex" tvg-logo="" group-title="Pluto TV",MTV Com o Ex
 https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV Dating" tvg-logo="" group-title="Pluto TV",MTV Dating
@@ -555,8 +555,6 @@ https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 http://45.162.64.114/SESC_TV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SIC TV (720p)" tvg-logo="" group-title="Variedades",SIC TV (720p)
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SOU TV" tvg-logo="" group-title="Variedades",SOU TV
-https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STZ TV (1080p)" tvg-logo="" group-title="Variedades",STZ TV (1080p)
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TCM 10 HD (1080p)" tvg-logo="" group-title="Variedades",TCM 10 HD (1080p)
