@@ -21,6 +21,8 @@ http://170.83.49.66:8083/FUTURAHD/index.m3u8
 https://jmp2.uk/plu-681111be5e0764e297fb200e.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MasterChef Brasil Profissionais" tvg-logo="" group-title="TV Aberta",MasterChef Brasil Profissionais
 https://jmp2.uk/plu-681110afc188aa63faa147e0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC Brasil TV" tvg-logo="" group-title="TV Aberta",MBC Brasil TV
+https://play.mbcbrasil.tv.br/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RACER Brasil (720p)" tvg-logo="" group-title="TV Aberta",RACER Brasil (720p)
 https://jmp2.uk/plu-65a6818c7bdc8d0008457b21.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Brasil (1080p)" tvg-logo="" group-title="TV Aberta",Rede Brasil (1080p)
@@ -53,8 +55,8 @@ https://jmp2.uk/plu-679a973a97782f0008ff4bb6.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Aparecida (1080p) [Not 24/7]" tvg-logo="" group-title="TV Aberta",TV Aparecida (1080p) [Not 24/7]
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Câmara (1080p)" tvg-logo="" group-title="TV Aberta",TV Câmara (1080p)
-https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Cultura" tvg-logo="" group-title="TV Aberta",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Gazeta (720p)" tvg-logo="" group-title="TV Aberta",TV Gazeta (720p)
 http://186.219.52.187/gazeta/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Senado (720p)" tvg-logo="" group-title="TV Aberta",TV Senado (720p)
@@ -155,6 +157,8 @@ https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8
 https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Kids Club" tvg-logo="" group-title="Desenhos e Kids",Pluto TV Kids Club
 https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Retro Cartoon (720p)" tvg-logo="" group-title="Desenhos e Kids",Retro Cartoon (720p)
+https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Caçadora de Relíquias" tvg-logo="" group-title="Pluto TV",A Caçadora de Relíquias
 https://jmp2.uk/plu-67e59a6557487a8b7fe73e23.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Feiticeira" tvg-logo="" group-title="Pluto TV",A Feiticeira
@@ -421,8 +425,6 @@ https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 http://170.83.16.50/AXN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bem Mais TV (1080p)" tvg-logo="" group-title="Variedades",Bem Mais TV (1080p)
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Boas Novas (1080p)" tvg-logo="" group-title="Variedades",Boas Novas (1080p)
-https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 25 Jundiaí (404p) [Not 24/7]" tvg-logo="" group-title="Variedades",Canal 25 Jundiaí (404p) [Not 24/7]
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 38 (720p)" tvg-logo="" group-title="Variedades",Canal 38 (720p)
@@ -437,6 +439,8 @@ https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Rural (720p)" tvg-logo="" group-title="Variedades",Canal Rural (720p)
 http://170.83.49.66:8083/CANALRURALHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sete" tvg-logo="" group-title="Variedades",Canal Sete
+http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal UOL (1080p)" tvg-logo="" group-title="Variedades",Canal UOL (1080p)
 https://video24.mais.uol.com.br/live/6146.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Catve FM (720p) [Not 24/7]" tvg-logo="" group-title="Variedades",Catve FM (720p) [Not 24/7]
@@ -451,6 +455,8 @@ http://138.204.86.4:8080/CAZE_TV/playlist.m3u8
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINDIE TV (1080p)" tvg-logo="" group-title="Variedades",CINDIE TV (1080p)
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinturao Verde" tvg-logo="" group-title="Variedades",Cinturao Verde
+https://play.redecinturaoverde.com.br/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Classique TV (360p)" tvg-logo="" group-title="Variedades",Classique TV (360p)
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Conecta Mais TV (720p)" tvg-logo="" group-title="Variedades",Conecta Mais TV (720p)
@@ -519,8 +525,6 @@ https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 https://isaocorp.cloudecast.com/ngt/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Seculo 21 (720p)" tvg-logo="" group-title="Variedades",Rede Seculo 21 (720p)
 http://186.219.52.187/seculo21/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rede SPTV (360p)" tvg-logo="" group-title="Variedades",Rede SPTV (360p)
-https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede TV! (720p)" tvg-logo="" group-title="Variedades",Rede TV! (720p)
 http://170.83.16.50/REDE_TV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede TV! Mais (720p)" tvg-logo="" group-title="Variedades",Rede TV! Mais (720p)
@@ -533,6 +537,8 @@ https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STZ TV (1080p)" tvg-logo="" group-title="Variedades",STZ TV (1080p)
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TCM 10 HD (1080p)" tvg-logo="" group-title="Variedades",TCM 10 HD (1080p)
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel Box Brazil (720p)" tvg-logo="" group-title="Variedades",Travel Box Brazil (720p)
 http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Aldeia (720p)" tvg-logo="" group-title="Variedades",TV Aldeia (720p)
@@ -599,6 +605,8 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Sim São Mateus (720p)" tvg-logo="" group-title="Variedades",TV Sim São Mateus (720p)
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Sul Bahia (320p)" tvg-logo="" group-title="Variedades",TV Sul Bahia (320p)
+https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV São Raimundo (268p)" tvg-logo="" group-title="Variedades",TV São Raimundo (268p)
 https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Terceiro Anjo (360p)" tvg-logo="" group-title="Variedades",TV Terceiro Anjo (360p)
@@ -617,14 +625,14 @@ https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
 https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="" tvg-name="TVCOM Maceió (480p)" tvg-logo="" group-title="Variedades",TVCOM Maceió (480p)
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVE RS (1080p)" tvg-logo="" group-title="Variedades",TVE RS (1080p)
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVitapé (720p)" tvg-logo="" group-title="Variedades",TVitapé (720p)
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVLatinaSat (720p)" tvg-logo="" group-title="Variedades",TVLatinaSat (720p)
 https://www.latinasat.com.br/hls/live/stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVNBN (720p)" tvg-logo="" group-title="Variedades",TVNBN (720p)
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UMA TV" tvg-logo="" group-title="Variedades",UMA TV
+https://umatv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UNISUL TV (720p)" tvg-logo="" group-title="Variedades",UNISUL TV (720p)
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-name="VEJA+ TV (1080p)" tvg-logo="" group-title="Variedades",VEJA+ TV (1080p)
