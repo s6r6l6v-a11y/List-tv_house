@@ -21,8 +21,6 @@ http://170.83.49.66:8083/FUTURAHD/index.m3u8
 https://jmp2.uk/plu-681111be5e0764e297fb200e.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MasterChef Brasil Profissionais" tvg-logo="" group-title="TV Aberta",MasterChef Brasil Profissionais
 https://jmp2.uk/plu-681110afc188aa63faa147e0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC Brasil TV" tvg-logo="" group-title="TV Aberta",MBC Brasil TV
-https://play.mbcbrasil.tv.br/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RACER Brasil (720p)" tvg-logo="" group-title="TV Aberta",RACER Brasil (720p)
 https://jmp2.uk/plu-65a6818c7bdc8d0008457b21.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Brasil (1080p)" tvg-logo="" group-title="TV Aberta",Rede Brasil (1080p)
@@ -423,14 +421,14 @@ https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 http://170.83.16.50/AXN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bem Mais TV (1080p)" tvg-logo="" group-title="Variedades",Bem Mais TV (1080p)
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boas Novas (1080p)" tvg-logo="" group-title="Variedades",Boas Novas (1080p)
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 25 Jundiaí (404p) [Not 24/7]" tvg-logo="" group-title="Variedades",Canal 25 Jundiaí (404p) [Not 24/7]
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 38 (720p)" tvg-logo="" group-title="Variedades",Canal 38 (720p)
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal do Boi (720p)" tvg-logo="" group-title="Variedades",Canal do Boi (720p)
 http://170.83.16.50/CANAL_DO_BOI/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Educação (720p)" tvg-logo="" group-title="Variedades",Canal Educação (720p)
-https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal FDR (1080p)" tvg-logo="" group-title="Variedades",Canal FDR (1080p)
 https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Metropolitano de Noticias" tvg-logo="" group-title="Variedades",Canal Metropolitano de Noticias
@@ -451,8 +449,6 @@ https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINDIE TV (1080p)" tvg-logo="" group-title="Variedades",CINDIE TV (1080p)
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinturao Verde" tvg-logo="" group-title="Variedades",Cinturao Verde
-https://play.redecinturaoverde.com.br/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Classique TV (360p)" tvg-logo="" group-title="Variedades",Classique TV (360p)
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Conecta Mais TV (720p)" tvg-logo="" group-title="Variedades",Conecta Mais TV (720p)
@@ -503,6 +499,8 @@ https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Plena TV (720p)" tvg-logo="" group-title="Variedades",Plena TV (720p)
 https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Plenitude TV" tvg-logo="" group-title="Variedades",Plenitude TV
+https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Primer TV (1080p)" tvg-logo="" group-title="Variedades",Primer TV (1080p)
 http://200.194.238.229:8383/live/primer/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RBATV (720p)" tvg-logo="" group-title="Variedades",RBATV (720p)
@@ -537,8 +535,6 @@ https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STZ TV (1080p)" tvg-logo="" group-title="Variedades",STZ TV (1080p)
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TCM 10 HD (1080p)" tvg-logo="" group-title="Variedades",TCM 10 HD (1080p)
-https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel Box Brazil (720p)" tvg-logo="" group-title="Variedades",Travel Box Brazil (720p)
 http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Aldeia (720p)" tvg-logo="" group-title="Variedades",TV Aldeia (720p)
@@ -625,8 +621,6 @@ https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
 https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="" tvg-name="TVCOM Maceió (480p)" tvg-logo="" group-title="Variedades",TVCOM Maceió (480p)
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVE RS (1080p)" tvg-logo="" group-title="Variedades",TVE RS (1080p)
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVitapé (720p)" tvg-logo="" group-title="Variedades",TVitapé (720p)
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVLatinaSat (720p)" tvg-logo="" group-title="Variedades",TVLatinaSat (720p)
