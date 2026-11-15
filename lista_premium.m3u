@@ -67,8 +67,6 @@ https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
 https://jmp2.uk/plu-62310f66d5888f0007534342.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Euronews Portuguese (720p)" tvg-logo="" group-title="Notícias",Euronews Portuguese (720p)
 https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="J3NEWS TV" tvg-logo="" group-title="Notícias",J3NEWS TV
-https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News (720p)" tvg-logo="" group-title="Notícias",Jovem Pan News (720p)
 http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Record News (720p)" tvg-logo="" group-title="Notícias",Pluto TV Record News (720p)
@@ -161,8 +159,6 @@ https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8
 https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Caçadora de Relíquias" tvg-logo="" group-title="Pluto TV",A Caçadora de Relíquias
 https://jmp2.uk/plu-67e59a6557487a8b7fe73e23.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Feiticeira" tvg-logo="" group-title="Pluto TV",A Feiticeira
-https://jmp2.uk/plu-631fa8dd7f25240007099a40.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Acumuladores Obsessivos" tvg-logo="" group-title="Pluto TV",Acumuladores Obsessivos
 https://jmp2.uk/plu-656e2a4b4261ca00083aa99e.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Adrenalina Pura TV" tvg-logo="" group-title="Pluto TV",Adrenalina Pura TV
@@ -393,8 +389,6 @@ https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
 https://jmp2.uk/plu-6888ee858f4a4aa11feb9430.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Turma da Mônica (720p)" tvg-logo="" group-title="Pluto TV",Turma da Mônica (720p)
 https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="" group-title="Pluto TV",UFC
-https://jmp2.uk/plu-69a20556814d27f4ae630a92.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="World Poker Tour" tvg-logo="" group-title="Pluto TV",World Poker Tour
 https://jmp2.uk/plu-63eba66da8b2270008436b10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Yu-Gi-Oh" tvg-logo="" group-title="Pluto TV",Yu-Gi-Oh
@@ -423,6 +417,8 @@ https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 http://170.83.16.50/AXN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bem Mais TV (1080p)" tvg-logo="" group-title="Variedades",Bem Mais TV (1080p)
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boas Novas (1080p)" tvg-logo="" group-title="Variedades",Boas Novas (1080p)
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 38 (720p)" tvg-logo="" group-title="Variedades",Canal 38 (720p)
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal do Boi (720p)" tvg-logo="" group-title="Variedades",Canal do Boi (720p)
@@ -601,8 +597,6 @@ https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Show Fortaleza (720p)" tvg-logo="" group-title="Variedades",TV Show Fortaleza (720p)
 https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Sim Cachoeiro (720p)" tvg-logo="" group-title="Variedades",TV Sim Cachoeiro (720p)
-https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Sim São Mateus (720p)" tvg-logo="" group-title="Variedades",TV Sim São Mateus (720p)
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV São Raimundo (268p)" tvg-logo="" group-title="Variedades",TV São Raimundo (268p)
