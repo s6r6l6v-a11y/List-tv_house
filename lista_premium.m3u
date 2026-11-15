@@ -21,8 +21,6 @@ http://170.83.49.66:8083/FUTURAHD/index.m3u8
 https://jmp2.uk/plu-681111be5e0764e297fb200e.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MasterChef Brasil Profissionais" tvg-logo="" group-title="TV Aberta",MasterChef Brasil Profissionais
 https://jmp2.uk/plu-681110afc188aa63faa147e0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC Brasil TV" tvg-logo="" group-title="TV Aberta",MBC Brasil TV
-https://play.mbcbrasil.tv.br/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RACER Brasil (720p)" tvg-logo="" group-title="TV Aberta",RACER Brasil (720p)
 https://jmp2.uk/plu-65a6818c7bdc8d0008457b21.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Brasil (1080p)" tvg-logo="" group-title="TV Aberta",Rede Brasil (1080p)
@@ -53,8 +51,6 @@ https://jmp2.uk/plu-679a973a97782f0008ff4bb6.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Aparecida (1080p) [Not 24/7]" tvg-logo="" group-title="TV Aberta",TV Aparecida (1080p) [Not 24/7]
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Brasil Oeste (720p)" tvg-logo="" group-title="TV Aberta",TV Brasil Oeste (720p)
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Cultura" tvg-logo="" group-title="TV Aberta",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Câmara (1080p)" tvg-logo="" group-title="TV Aberta",TV Câmara (1080p)
@@ -155,6 +151,8 @@ https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
 https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Desenhos Clássicos" tvg-logo="" group-title="Desenhos e Kids",Pluto TV Desenhos Clássicos
 https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Kids" tvg-logo="" group-title="Desenhos e Kids",Pluto TV Kids
+https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Kids Club" tvg-logo="" group-title="Desenhos e Kids",Pluto TV Kids Club
 https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Retro Cartoon (720p)" tvg-logo="" group-title="Desenhos e Kids",Retro Cartoon (720p)
@@ -373,8 +371,6 @@ https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
 https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="South Park: Coleção Kenny" tvg-logo="" group-title="Pluto TV",South Park: Coleção Kenny
 https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="South Park: Coleção Kyle" tvg-logo="" group-title="Pluto TV",South Park: Coleção Kyle
-https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="South Park: Coleção Stan" tvg-logo="" group-title="Pluto TV",South Park: Coleção Stan
 https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Super Onze" tvg-logo="" group-title="Pluto TV",Super Onze
@@ -415,14 +411,14 @@ https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 http://170.83.49.66:8083/AGROCANALHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Amazon Sat (1080p)" tvg-logo="" group-title="Variedades",Amazon Sat (1080p)
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Araruna TV" tvg-logo="" group-title="Variedades",Araruna TV
+https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Aratu On (1080p)" tvg-logo="" group-title="Variedades",Aratu On (1080p)
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN (720p)" tvg-logo="" group-title="Variedades",AXN (720p)
 http://170.83.16.50/AXN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bem Mais TV (1080p)" tvg-logo="" group-title="Variedades",Bem Mais TV (1080p)
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Boas Novas (1080p)" tvg-logo="" group-title="Variedades",Boas Novas (1080p)
-https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 25 Jundiaí (404p) [Not 24/7]" tvg-logo="" group-title="Variedades",Canal 25 Jundiaí (404p) [Not 24/7]
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 38 (720p)" tvg-logo="" group-title="Variedades",Canal 38 (720p)
@@ -433,6 +429,8 @@ http://170.83.16.50/CANAL_DO_BOI/index.m3u8
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal FDR (1080p)" tvg-logo="" group-title="Variedades",Canal FDR (1080p)
 https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Metropolitano de Noticias" tvg-logo="" group-title="Variedades",Canal Metropolitano de Noticias
+https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Rural (720p)" tvg-logo="" group-title="Variedades",Canal Rural (720p)
 http://170.83.49.66:8083/CANALRURALHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Sete" tvg-logo="" group-title="Variedades",Canal Sete
@@ -449,8 +447,6 @@ https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINDIE TV (1080p)" tvg-logo="" group-title="Variedades",CINDIE TV (1080p)
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinturao Verde" tvg-logo="" group-title="Variedades",Cinturao Verde
-https://play.redecinturaoverde.com.br/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Classique TV (360p)" tvg-logo="" group-title="Variedades",Classique TV (360p)
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Conecta Mais TV (720p)" tvg-logo="" group-title="Variedades",Conecta Mais TV (720p)
