@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Band Sports (720p)" tvg-logo="" group-title="TV Aberta",Band Sports (720p)
-http://170.83.16.50/BAND_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Futura (720p)" tvg-logo="" group-title="TV Aberta",Canal Futura (720p)
 http://170.83.16.50/FUTURA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN Brasil (1080p)" tvg-logo="" group-title="TV Aberta",CNN Brasil (1080p)
@@ -57,6 +55,8 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Cultura" tvg-logo="" group-title="TV Aberta",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Câmara (1080p)" tvg-logo="" group-title="TV Aberta",TV Câmara (1080p)
+https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Gazeta (720p)" tvg-logo="" group-title="TV Aberta",TV Gazeta (720p)
 http://186.219.52.187/gazeta/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Senado (720p)" tvg-logo="" group-title="TV Aberta",TV Senado (720p)
@@ -157,8 +157,6 @@ https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8
 https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Kids Club" tvg-logo="" group-title="Desenhos e Kids",Pluto TV Kids Club
 https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Retro Cartoon (720p)" tvg-logo="" group-title="Desenhos e Kids",Retro Cartoon (720p)
-https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Caçadora de Relíquias" tvg-logo="" group-title="Pluto TV",A Caçadora de Relíquias
 https://jmp2.uk/plu-67e59a6557487a8b7fe73e23.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Feiticeira" tvg-logo="" group-title="Pluto TV",A Feiticeira
@@ -509,8 +507,8 @@ https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
 https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Primer TV (1080p)" tvg-logo="" group-title="Variedades",Primer TV (1080p)
 http://200.194.238.229:8383/live/primer/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RecordTV" tvg-logo="" group-title="Variedades",RecordTV
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RBATV (720p)" tvg-logo="" group-title="Variedades",RBATV (720p)
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede CNT Rio de Janeiro (720p)" tvg-logo="" group-title="Variedades",Rede CNT Rio de Janeiro (720p)
 http://170.83.49.66:8083/REDECNTHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Familia (720p)" tvg-logo="" group-title="Variedades",Rede Familia (720p)
