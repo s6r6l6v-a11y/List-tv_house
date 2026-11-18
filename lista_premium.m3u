@@ -13,8 +13,6 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m
 https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ConecTV Brasil (720p)" tvg-logo="" group-title="TV Aberta",ConecTV Brasil (720p)
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cultura Fast (720p)" tvg-logo="" group-title="TV Aberta",Cultura Fast (720p)
-https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Futura (720p)" tvg-logo="" group-title="TV Aberta",Futura (720p)
 http://170.83.49.66:8083/FUTURAHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mais MasterChef Brasil" tvg-logo="" group-title="TV Aberta",Mais MasterChef Brasil
@@ -25,6 +23,8 @@ https://jmp2.uk/plu-681110afc188aa63faa147e0.m3u8
 https://play.mbcbrasil.tv.br/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RACER Brasil (720p)" tvg-logo="" group-title="TV Aberta",RACER Brasil (720p)
 https://jmp2.uk/plu-65a6818c7bdc8d0008457b21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil (1080p)" tvg-logo="" group-title="TV Aberta",Rede Brasil (1080p)
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RedeTV! Parana (1080p)" tvg-logo="" group-title="TV Aberta",RedeTV! Parana (1080p)
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RIT TV (1080p)" tvg-logo="" group-title="TV Aberta",RIT TV (1080p)
@@ -51,14 +51,8 @@ https://jmp2.uk/plu-679a973a97782f0008ff4bb6.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Aparecida (1080p) [Not 24/7]" tvg-logo="" group-title="TV Aberta",TV Aparecida (1080p) [Not 24/7]
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Brasil Oeste (720p)" tvg-logo="" group-title="TV Aberta",TV Brasil Oeste (720p)
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Cultura" tvg-logo="" group-title="TV Aberta",TV Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Gazeta (720p)" tvg-logo="" group-title="TV Aberta",TV Gazeta (720p)
 http://186.219.52.187/gazeta/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Senado (720p)" tvg-logo="" group-title="TV Aberta",TV Senado (720p)
-http://170.83.16.50/TV_SENADO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BM&C News (720p)" tvg-logo="" group-title="Notícias",BM&C News (720p)
 https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBS News (720p)" tvg-logo="" group-title="Notícias",CBS News (720p)
@@ -379,8 +373,6 @@ https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8
 https://jmp2.uk/plu-63988c2750108d00072e2686.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tastemade (720p)" tvg-logo="" group-title="Pluto TV",Tastemade (720p)
 https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tastemade Casa (720p)" tvg-logo="" group-title="Pluto TV",Tastemade Casa (720p)
-https://jmp2.uk/plu-68b88821e542386ab0bf5bef.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tastemade Viagem (720p)" tvg-logo="" group-title="Pluto TV",Tastemade Viagem (720p)
 https://jmp2.uk/plu-68b8875777201ec428d9eaa5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Pet Collective (720p)" tvg-logo="" group-title="Pluto TV",The Pet Collective (720p)
@@ -515,6 +507,8 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 http://170.83.49.66:8083/REDECNTHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Familia (720p)" tvg-logo="" group-title="Variedades",Rede Familia (720p)
 http://186.219.52.187/rede_familia/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rede Gospel (1080p)" tvg-logo="" group-title="Variedades",Rede Gospel (1080p)
+https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Meio Norte (720p)" tvg-logo="" group-title="Variedades",Rede Meio Norte (720p)
 https://maystreaming.cloudecast.com/redemeio/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Minas (720p)" tvg-logo="" group-title="Variedades",Rede Minas (720p)
@@ -603,6 +597,8 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Sim Cachoeiro (720p)" tvg-logo="" group-title="Variedades",TV Sim Cachoeiro (720p)
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Sul Bahia (320p)" tvg-logo="" group-title="Variedades",TV Sul Bahia (320p)
+https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV São Raimundo (268p)" tvg-logo="" group-title="Variedades",TV São Raimundo (268p)
 https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Terceiro Anjo (360p)" tvg-logo="" group-title="Variedades",TV Terceiro Anjo (360p)
