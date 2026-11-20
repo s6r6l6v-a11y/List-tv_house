@@ -88,20 +88,12 @@
     "number": 11
   },
   {
-    "name": "MBC Brasil TV",
-    "category": "TV Aberta",
-    "logo": "",
-    "url": "https://play.mbcbrasil.tv.br/playlist.m3u8",
-    "quality": "HLS HD",
-    "number": 12
-  },
-  {
     "name": "RACER Brasil (720p)",
     "category": "TV Aberta",
     "logo": "",
     "url": "https://jmp2.uk/plu-65a6818c7bdc8d0008457b21.m3u8",
     "quality": "HLS HD",
-    "number": 13
+    "number": 12
   },
   {
     "name": "Rede Brasil (1080p)",
@@ -109,7 +101,7 @@
     "logo": "",
     "url": "https://redebrasil.nuvemplay.live/hls/stream.m3u8",
     "quality": "HLS HD",
-    "number": 14
+    "number": 13
   },
   {
     "name": "RedeTV! Parana (1080p)",
@@ -117,7 +109,7 @@
     "logo": "",
     "url": "https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 15
+    "number": 14
   },
   {
     "name": "RIT TV (1080p)",
@@ -125,7 +117,7 @@
     "logo": "",
     "url": "https://acesso.ecast.site:3648/live/ritlive.m3u8",
     "quality": "HLS HD",
-    "number": 16
+    "number": 15
   },
   {
     "name": "SBT Interior (720p)",
@@ -133,7 +125,7 @@
     "logo": "",
     "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 17
+    "number": 16
   },
   {
     "name": "SBT Nacional (1080p)",
@@ -141,7 +133,7 @@
     "logo": "",
     "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
     "quality": "HLS HD",
-    "number": 18
+    "number": 17
   },
   {
     "name": "SBT Nacional (720p)",
@@ -149,7 +141,7 @@
     "logo": "",
     "url": "https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 19
+    "number": 18
   },
   {
     "name": "SBT News (720p)",
@@ -157,7 +149,7 @@
     "logo": "",
     "url": "https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8",
     "quality": "HLS HD",
-    "number": 20
+    "number": 19
   },
   {
     "name": "SBT Nova Mutum (818p)",
@@ -165,7 +157,7 @@
     "logo": "",
     "url": "https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 21
+    "number": 20
   },
   {
     "name": "Sony One Shark Tank Brasil (720p)",
@@ -173,7 +165,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-6647c0b91050b60008390de4.m3u8",
     "quality": "HLS HD",
-    "number": 22
+    "number": 21
   },
   {
     "name": "TikTok Radio Brasil (720p)",
@@ -181,7 +173,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-63dac32bda711800088a2ba3.m3u8",
     "quality": "HLS HD",
-    "number": 23
+    "number": 22
   },
   {
     "name": "Times Brasil (720p)",
@@ -189,7 +181,7 @@
     "logo": "",
     "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 24
+    "number": 23
   },
   {
     "name": "Times Brasil | CNBC (720p)",
@@ -197,7 +189,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-679a973a97782f0008ff4bb6.m3u8",
     "quality": "HLS HD",
-    "number": 25
+    "number": 24
   },
   {
     "name": "TV A Critica (1080p)",
@@ -205,13 +197,21 @@
     "logo": "",
     "url": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 26
+    "number": 25
   },
   {
     "name": "TV Aparecida (1080p) [Not 24/7]",
     "category": "TV Aberta",
     "logo": "",
     "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8",
+    "quality": "HLS HD",
+    "number": 26
+  },
+  {
+    "name": "TV Brasil Oeste (720p)",
+    "category": "TV Aberta",
+    "logo": "",
+    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8",
     "quality": "HLS HD",
     "number": 27
   },
@@ -1632,12 +1632,20 @@
     "number": 204
   },
   {
+    "name": "1001 Noites (480p)",
+    "category": "Variedades",
+    "logo": "",
+    "url": "https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8",
+    "quality": "HLS HD",
+    "number": 205
+  },
+  {
     "name": "Adesso TV (720p)",
     "category": "Variedades",
     "logo": "",
     "url": "https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 205
+    "number": 206
   },
   {
     "name": "AgroCanal (720p)",
@@ -1645,7 +1653,7 @@
     "logo": "",
     "url": "http://170.83.49.66:8083/AGROCANALHD/index.m3u8",
     "quality": "HLS HD",
-    "number": 206
+    "number": 207
   },
   {
     "name": "Amazon Sat (1080p)",
@@ -1653,7 +1661,7 @@
     "logo": "",
     "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
     "quality": "HLS HD",
-    "number": 207
+    "number": 208
   },
   {
     "name": "Araruna TV (614p)",
@@ -1661,7 +1669,7 @@
     "logo": "",
     "url": "https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 208
+    "number": 209
   },
   {
     "name": "Aratu On (1080p)",
@@ -1669,7 +1677,7 @@
     "logo": "",
     "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 209
+    "number": 210
   },
   {
     "name": "AXN (720p)",
@@ -1677,21 +1685,13 @@
     "logo": "",
     "url": "http://170.83.16.50/AXN/index.m3u8",
     "quality": "HLS HD",
-    "number": 210
+    "number": 211
   },
   {
     "name": "Bem Mais TV (1080p)",
     "category": "Variedades",
     "logo": "",
     "url": "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8",
-    "quality": "HLS HD",
-    "number": 211
-  },
-  {
-    "name": "Boas Novas (1080p)",
-    "category": "Variedades",
-    "logo": "",
-    "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8",
     "quality": "HLS HD",
     "number": 212
   },
@@ -1808,20 +1808,12 @@
     "number": 226
   },
   {
-    "name": "Cinturao Verde",
-    "category": "Variedades",
-    "logo": "",
-    "url": "https://play.redecinturaoverde.com.br/playlist.m3u8",
-    "quality": "HLS HD",
-    "number": 227
-  },
-  {
     "name": "Classique TV (360p)",
     "category": "Variedades",
     "logo": "",
     "url": "https://stmv1.srvif.com/classique/classique/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 228
+    "number": 227
   },
   {
     "name": "Conecta Mais TV (720p)",
@@ -1829,7 +1821,7 @@
     "logo": "",
     "url": "https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8",
     "quality": "HLS HD",
-    "number": 229
+    "number": 228
   },
   {
     "name": "Conexão TV (720p)",
@@ -1837,7 +1829,7 @@
     "logo": "",
     "url": "https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 230
+    "number": 229
   },
   {
     "name": "Despertar TV (720p)",
@@ -1845,7 +1837,7 @@
     "logo": "",
     "url": "https://br.conectmy.com.br/DespertarTV/index.m3u8",
     "quality": "HLS HD",
-    "number": 231
+    "number": 230
   },
   {
     "name": "DumDum (720p)",
@@ -1853,7 +1845,7 @@
     "logo": "",
     "url": "http://186.219.52.187/zoomoo/index.m3u8",
     "quality": "HLS HD",
-    "number": 232
+    "number": 231
   },
   {
     "name": "Elemental Channel",
@@ -1861,7 +1853,7 @@
     "logo": "",
     "url": "https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 233
+    "number": 232
   },
   {
     "name": "ElyTV (360p)",
@@ -1869,7 +1861,7 @@
     "logo": "",
     "url": "https://stmv1.srvsite.com/ely/ely/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 234
+    "number": 233
   },
   {
     "name": "EUTV (720p)",
@@ -1877,7 +1869,7 @@
     "logo": "",
     "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 235
+    "number": 234
   },
   {
     "name": "Fala Litoral (480p)",
@@ -1885,7 +1877,7 @@
     "logo": "",
     "url": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 236
+    "number": 235
   },
   {
     "name": "Fish TV (720p)",
@@ -1893,7 +1885,7 @@
     "logo": "",
     "url": "http://170.83.16.50/FISH_TV/index.m3u8",
     "quality": "HLS HD",
-    "number": 237
+    "number": 236
   },
   {
     "name": "Fonte TV",
@@ -1901,7 +1893,7 @@
     "logo": "",
     "url": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8",
     "quality": "HLS HD",
-    "number": 238
+    "number": 237
   },
   {
     "name": "Fonte TV (1080p) [Not 24/7]",
@@ -1909,7 +1901,7 @@
     "logo": "",
     "url": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8",
     "quality": "HLS HD",
-    "number": 239
+    "number": 238
   },
   {
     "name": "ge Fast (1080p)",
@@ -1917,7 +1909,7 @@
     "logo": "",
     "url": "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 240
+    "number": 239
   },
   {
     "name": "Geekdot (720p)",
@@ -1925,7 +1917,7 @@
     "logo": "",
     "url": "https://stream.ichibantv.com:3764/hybrid/play.m3u8",
     "quality": "HLS HD",
-    "number": 241
+    "number": 240
   },
   {
     "name": "Gospel Movie TV (360p)",
@@ -1933,13 +1925,21 @@
     "logo": "",
     "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 242
+    "number": 241
   },
   {
     "name": "IMPD TV Worldwide (1080p)",
     "category": "Variedades",
     "logo": "",
     "url": "https://igrejamundial.nuvemplay.live/hls/stream.m3u8",
+    "quality": "HLS HD",
+    "number": 242
+  },
+  {
+    "name": "ISTV (720p) [Not 24/7]",
+    "category": "Variedades",
+    "logo": "",
+    "url": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8",
     "quality": "HLS HD",
     "number": 243
   },
@@ -2168,20 +2168,12 @@
     "number": 271
   },
   {
-    "name": "TCM 10 HD (1080p)",
-    "category": "Variedades",
-    "logo": "",
-    "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8",
-    "quality": "HLS HD",
-    "number": 272
-  },
-  {
     "name": "Travel Box Brazil (720p)",
     "category": "Variedades",
     "logo": "",
     "url": "http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8",
     "quality": "HLS HD",
-    "number": 273
+    "number": 272
   },
   {
     "name": "TV Aldeia (720p)",
@@ -2189,7 +2181,7 @@
     "logo": "",
     "url": "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 274
+    "number": 273
   },
   {
     "name": "TV Aliança Catarinense (720p)",
@@ -2197,7 +2189,7 @@
     "logo": "",
     "url": "https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 275
+    "number": 274
   },
   {
     "name": "TV Alternativa (410p)",
@@ -2205,15 +2197,7 @@
     "logo": "",
     "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 276
-  },
-  {
-    "name": "TV Bahia (1080i)",
-    "category": "Variedades",
-    "logo": "",
-    "url": "http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8",
-    "quality": "HLS HD",
-    "number": 277
+    "number": 275
   },
   {
     "name": "TV Brusque (720p)",
@@ -2221,7 +2205,7 @@
     "logo": "",
     "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 278
+    "number": 276
   },
   {
     "name": "TV Camara (720p)",
@@ -2229,7 +2213,15 @@
     "logo": "",
     "url": "http://170.83.49.66:8083/TVCAMARAHD/index.m3u8",
     "quality": "HLS HD",
-    "number": 279
+    "number": 277
+  },
+  {
+    "name": "TV Cancao Nova (720p)",
+    "category": "Variedades",
+    "logo": "",
+    "url": "http://170.83.16.50/CANCAO_NOVA/index.m3u8",
+    "quality": "HLS HD",
+    "number": 278
   },
   {
     "name": "TV Cidade Verde Cuiaba",
@@ -2237,7 +2229,7 @@
     "logo": "",
     "url": "https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8",
     "quality": "HLS HD",
-    "number": 280
+    "number": 279
   },
   {
     "name": "TV Clube (720p)",
@@ -2245,7 +2237,7 @@
     "logo": "",
     "url": "https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 281
+    "number": 280
   },
   {
     "name": "TV Curuça (360p)",
@@ -2253,7 +2245,7 @@
     "logo": "",
     "url": "https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 282
+    "number": 281
   },
   {
     "name": "TV Difusao (720p)",
@@ -2261,7 +2253,7 @@
     "logo": "",
     "url": "https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 283
+    "number": 282
   },
   {
     "name": "TV Evangelizar (720p)",
@@ -2269,7 +2261,7 @@
     "logo": "",
     "url": "http://170.83.16.50/TV_EVANGELIZAR/index.m3u8",
     "quality": "HLS HD",
-    "number": 284
+    "number": 283
   },
   {
     "name": "TV Grande Natal (1080p)",
@@ -2277,7 +2269,7 @@
     "logo": "",
     "url": "http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8",
     "quality": "HLS HD",
-    "number": 285
+    "number": 284
   },
   {
     "name": "TV Guarapari (720p)",
@@ -2285,7 +2277,7 @@
     "logo": "",
     "url": "https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 286
+    "number": 285
   },
   {
     "name": "TV Guará (720p) [Not 24/7]",
@@ -2293,7 +2285,7 @@
     "logo": "",
     "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 287
+    "number": 286
   },
   {
     "name": "TV Justica (720p)",
@@ -2301,7 +2293,7 @@
     "logo": "",
     "url": "http://170.83.16.50/TV_JUSTICA/index.m3u8",
     "quality": "HLS HD",
-    "number": 288
+    "number": 287
   },
   {
     "name": "TV Life America (720p)",
@@ -2309,7 +2301,7 @@
     "logo": "",
     "url": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8",
     "quality": "HLS HD",
-    "number": 289
+    "number": 288
   },
   {
     "name": "TV Litoral RN (720p)",
@@ -2317,7 +2309,7 @@
     "logo": "",
     "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 290
+    "number": 289
   },
   {
     "name": "TV Mais Maricá (1080p)",
@@ -2325,7 +2317,7 @@
     "logo": "",
     "url": "https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 291
+    "number": 290
   },
   {
     "name": "TV Marajoara (720p)",
@@ -2333,7 +2325,7 @@
     "logo": "",
     "url": "https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 292
+    "number": 291
   },
   {
     "name": "TV Metropole (720p) [Not 24/7]",
@@ -2341,7 +2333,7 @@
     "logo": "",
     "url": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 293
+    "number": 292
   },
   {
     "name": "TV Padre Cicero (720p)",
@@ -2349,7 +2341,7 @@
     "logo": "",
     "url": "https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 294
+    "number": 293
   },
   {
     "name": "TV Pai Eterno (720p)",
@@ -2357,7 +2349,7 @@
     "logo": "",
     "url": "http://186.219.52.187/pai_eterno/index.m3u8",
     "quality": "HLS HD",
-    "number": 295
+    "number": 294
   },
   {
     "name": "TV Pantanal MS (360p) [Not 24/7]",
@@ -2365,7 +2357,7 @@
     "logo": "",
     "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 296
+    "number": 295
   },
   {
     "name": "TV Paraná Turismo (720p) [Not 24/7]",
@@ -2373,13 +2365,21 @@
     "logo": "",
     "url": "http://200.189.113.201/hls/tve.m3u8",
     "quality": "HLS HD",
-    "number": 297
+    "number": 296
   },
   {
     "name": "TV Passo Fundo (720p)",
     "category": "Variedades",
     "logo": "",
     "url": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8",
+    "quality": "HLS HD",
+    "number": 297
+  },
+  {
+    "name": "TV Petropolis (720p)",
+    "category": "Variedades",
+    "logo": "",
+    "url": "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8",
     "quality": "HLS HD",
     "number": 298
   },
@@ -2408,12 +2408,20 @@
     "number": 301
   },
   {
+    "name": "TV Sul Bahia (320p)",
+    "category": "Variedades",
+    "logo": "",
+    "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8",
+    "quality": "HLS HD",
+    "number": 302
+  },
+  {
     "name": "TV São Raimundo (268p)",
     "category": "Variedades",
     "logo": "",
     "url": "https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 302
+    "number": 303
   },
   {
     "name": "TV Terceiro Anjo (360p)",
@@ -2421,7 +2429,7 @@
     "logo": "",
     "url": "https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 303
+    "number": 304
   },
   {
     "name": "TV UFOP (1080p)",
@@ -2429,7 +2437,7 @@
     "logo": "",
     "url": "https://app.tvufop.com.br/hls/tvufop.m3u8",
     "quality": "HLS HD",
-    "number": 304
+    "number": 305
   },
   {
     "name": "TV Vila Real (720p)",
@@ -2437,7 +2445,7 @@
     "logo": "",
     "url": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 305
+    "number": 306
   },
   {
     "name": "TV Viçosa (480p)",
@@ -2445,7 +2453,7 @@
     "logo": "",
     "url": "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 306
+    "number": 307
   },
   {
     "name": "TV Zoom (720p)",
@@ -2453,7 +2461,7 @@
     "logo": "",
     "url": "https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 307
+    "number": 308
   },
   {
     "name": "TV+Pet",
@@ -2461,7 +2469,7 @@
     "logo": "",
     "url": "https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 308
+    "number": 309
   },
   {
     "name": "TVCOM Maceió (480p)",
@@ -2469,7 +2477,7 @@
     "logo": "",
     "url": "https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 309
+    "number": 310
   },
   {
     "name": "TVE RS (1080p)",
@@ -2477,7 +2485,7 @@
     "logo": "",
     "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 310
+    "number": 311
   },
   {
     "name": "TVitapé (720p)",
@@ -2485,7 +2493,7 @@
     "logo": "",
     "url": "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8",
     "quality": "HLS HD",
-    "number": 311
+    "number": 312
   },
   {
     "name": "TVLatinaSat (720p)",
@@ -2493,7 +2501,7 @@
     "logo": "",
     "url": "https://www.latinasat.com.br/hls/live/stream/index.m3u8",
     "quality": "HLS HD",
-    "number": 312
+    "number": 313
   },
   {
     "name": "TVNBN (720p)",
@@ -2501,7 +2509,7 @@
     "logo": "",
     "url": "https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 313
+    "number": 314
   },
   {
     "name": "UMA TV",
@@ -2509,7 +2517,7 @@
     "logo": "",
     "url": "https://umatv.nuvemplay.live/hls/stream.m3u8",
     "quality": "HLS HD",
-    "number": 314
+    "number": 315
   },
   {
     "name": "UNISUL TV (720p)",
@@ -2517,7 +2525,7 @@
     "logo": "",
     "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=",
     "quality": "HLS HD",
-    "number": 315
+    "number": 316
   },
   {
     "name": "VEJA+ TV (1080p)",
@@ -2525,7 +2533,7 @@
     "logo": "",
     "url": "https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8",
     "quality": "HLS HD",
-    "number": 316
+    "number": 317
   },
   {
     "name": "WooHoo (720p)",
@@ -2533,6 +2541,6 @@
     "logo": "",
     "url": "http://170.83.16.50/WOOHOO/index.m3u8",
     "quality": "HLS HD",
-    "number": 317
+    "number": 318
   }
 ]
