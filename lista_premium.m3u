@@ -13,6 +13,8 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m
 https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ConecTV Brasil (720p)" tvg-logo="" group-title="TV Aberta",ConecTV Brasil (720p)
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cultura Fast (720p)" tvg-logo="" group-title="TV Aberta",Cultura Fast (720p)
+https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Futura (720p)" tvg-logo="" group-title="TV Aberta",Futura (720p)
 http://170.83.49.66:8083/FUTURAHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mais MasterChef Brasil" tvg-logo="" group-title="TV Aberta",Mais MasterChef Brasil
@@ -25,12 +27,12 @@ https://play.mbcbrasil.tv.br/playlist.m3u8
 https://jmp2.uk/plu-65a6818c7bdc8d0008457b21.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Brasil (1080p)" tvg-logo="" group-title="TV Aberta",Rede Brasil (1080p)
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RedeTV! Parana (1080p)" tvg-logo="" group-title="TV Aberta",RedeTV! Parana (1080p)
-https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RIT TV (1080p)" tvg-logo="" group-title="TV Aberta",RIT TV (1080p)
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBT Interior (720p)" tvg-logo="" group-title="TV Aberta",SBT Interior (720p)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT Nacional (1080p)" tvg-logo="" group-title="TV Aberta",SBT Nacional (1080p)
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBT Nacional (720p)" tvg-logo="" group-title="TV Aberta",SBT Nacional (720p)
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBT News (720p)" tvg-logo="" group-title="TV Aberta",SBT News (720p)
@@ -51,6 +53,8 @@ https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Cultura" tvg-logo="" group-title="TV Aberta",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Câmara (1080p)" tvg-logo="" group-title="TV Aberta",TV Câmara (1080p)
+https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Gazeta (720p)" tvg-logo="" group-title="TV Aberta",TV Gazeta (720p)
 http://186.219.52.187/gazeta/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Senado (720p)" tvg-logo="" group-title="TV Aberta",TV Senado (720p)
@@ -151,6 +155,8 @@ https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8
 https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Retro Cartoon (720p)" tvg-logo="" group-title="Desenhos e Kids",Retro Cartoon (720p)
 https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Caçadora de Relíquias" tvg-logo="" group-title="Pluto TV",A Caçadora de Relíquias
+https://jmp2.uk/plu-67e59a6557487a8b7fe73e23.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Feiticeira" tvg-logo="" group-title="Pluto TV",A Feiticeira
 https://jmp2.uk/plu-631fa8dd7f25240007099a40.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Acumuladores Obsessivos" tvg-logo="" group-title="Pluto TV",Acumuladores Obsessivos
@@ -347,8 +353,6 @@ https://jmp2.uk/plu-677d93f37bffa600080795e7.m3u8
 https://jmp2.uk/plu-69440d0611f6c6384ab78306.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pronto-socorro: Histórias De Emergência" tvg-logo="" group-title="Pluto TV",Pronto-socorro: Histórias De Emergência
 https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV BR (720p)" tvg-logo="" group-title="Pluto TV",Red Bull TV BR (720p)
-https://jmp2.uk/plu-67813f3162bf016db944c9ab.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rookie Blue" tvg-logo="" group-title="Pluto TV",Rookie Blue
 https://jmp2.uk/plu-64ff2d8c6625510008c5a512.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Runtime" tvg-logo="" group-title="Pluto TV",Runtime
@@ -411,8 +415,6 @@ https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 http://170.83.16.50/AXN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bem Mais TV (1080p)" tvg-logo="" group-title="Variedades",Bem Mais TV (1080p)
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Boas Novas (1080p)" tvg-logo="" group-title="Variedades",Boas Novas (1080p)
-https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 25 Jundiaí (404p) [Not 24/7]" tvg-logo="" group-title="Variedades",Canal 25 Jundiaí (404p) [Not 24/7]
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 38 (720p)" tvg-logo="" group-title="Variedades",Canal 38 (720p)
@@ -425,6 +427,8 @@ https://canaleducacao-stream.ebc.com.br/index.m3u8
 https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Metropolitano de Noticias" tvg-logo="" group-title="Variedades",Canal Metropolitano de Noticias
 https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sete (1080p)" tvg-logo="" group-title="Variedades",Canal Sete (1080p)
+http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal UOL (1080p)" tvg-logo="" group-title="Variedades",Canal UOL (1080p)
 https://video24.mais.uol.com.br/live/6146.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Catve FM (720p) [Not 24/7]" tvg-logo="" group-title="Variedades",Catve FM (720p) [Not 24/7]
@@ -449,8 +453,6 @@ https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
 https://br.conectmy.com.br/DespertarTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DumDum (720p)" tvg-logo="" group-title="Variedades",DumDum (720p)
 http://186.219.52.187/zoomoo/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Elemental Channel" tvg-logo="" group-title="Variedades",Elemental Channel
-https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ElyTV (360p)" tvg-logo="" group-title="Variedades",ElyTV (360p)
 https://stmv1.srvsite.com/ely/ely/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EUTV (720p)" tvg-logo="" group-title="Variedades",EUTV (720p)
@@ -595,8 +597,6 @@ https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV São Raimundo (268p)" tvg-logo="" group-title="Variedades",TV São Raimundo (268p)
 https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Terceiro Anjo (360p)" tvg-logo="" group-title="Variedades",TV Terceiro Anjo (360p)
-https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV UFOP (1080p)" tvg-logo="" group-title="Variedades",TV UFOP (1080p)
 https://app.tvufop.com.br/hls/tvufop.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Vila Real (720p)" tvg-logo="" group-title="Variedades",TV Vila Real (720p)
@@ -607,8 +607,6 @@ http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV+Pet" tvg-logo="" group-title="Variedades",TV+Pet
 https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVCOM DF (360p)" tvg-logo="" group-title="Variedades",TVCOM DF (360p)
-https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="" tvg-name="TVCOM Maceió (480p)" tvg-logo="" group-title="Variedades",TVCOM Maceió (480p)
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVE RS (1080p)" tvg-logo="" group-title="Variedades",TVE RS (1080p)
