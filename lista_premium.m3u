@@ -27,6 +27,8 @@ https://play.mbcbrasil.tv.br/playlist.m3u8
 https://jmp2.uk/plu-65a6818c7bdc8d0008457b21.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Brasil (1080p)" tvg-logo="" group-title="TV Aberta",Rede Brasil (1080p)
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RedeTV! Parana (1080p)" tvg-logo="" group-title="TV Aberta",RedeTV! Parana (1080p)
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RIT TV (1080p)" tvg-logo="" group-title="TV Aberta",RIT TV (1080p)
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBT Interior (720p)" tvg-logo="" group-title="TV Aberta",SBT Interior (720p)
@@ -51,8 +53,6 @@ https://jmp2.uk/plu-679a973a97782f0008ff4bb6.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Aparecida (1080p) [Not 24/7]" tvg-logo="" group-title="TV Aberta",TV Aparecida (1080p) [Not 24/7]
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Cultura" tvg-logo="" group-title="TV Aberta",TV Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Câmara (1080p)" tvg-logo="" group-title="TV Aberta",TV Câmara (1080p)
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Gazeta (720p)" tvg-logo="" group-title="TV Aberta",TV Gazeta (720p)
@@ -67,6 +67,8 @@ https://jmp2.uk/plu-62310f66d5888f0007534342.m3u8
 https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="J3NEWS TV" tvg-logo="" group-title="Notícias",J3NEWS TV
 https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News (720p)" tvg-logo="" group-title="Notícias",Jovem Pan News (720p)
+http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Record News (720p)" tvg-logo="" group-title="Notícias",Pluto TV Record News (720p)
 https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVídeoNews (720p) [Not 24/7]" tvg-logo="" group-title="Notícias",TVídeoNews (720p) [Not 24/7]
@@ -299,8 +301,6 @@ https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
 https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Investigação" tvg-logo="" group-title="Pluto TV",Pluto TV Investigação
 https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Junior" tvg-logo="" group-title="Pluto TV",Pluto TV Junior
-https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV KFOOD" tvg-logo="" group-title="Pluto TV",Pluto TV KFOOD
 https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Mistérios" tvg-logo="" group-title="Pluto TV",Pluto TV Mistérios
@@ -353,6 +353,8 @@ https://jmp2.uk/plu-677d93f37bffa600080795e7.m3u8
 https://jmp2.uk/plu-69440d0611f6c6384ab78306.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pronto-socorro: Histórias De Emergência" tvg-logo="" group-title="Pluto TV",Pronto-socorro: Histórias De Emergência
 https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV BR (720p)" tvg-logo="" group-title="Pluto TV",Red Bull TV BR (720p)
+https://jmp2.uk/plu-67813f3162bf016db944c9ab.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rookie Blue" tvg-logo="" group-title="Pluto TV",Rookie Blue
 https://jmp2.uk/plu-64ff2d8c6625510008c5a512.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Runtime" tvg-logo="" group-title="Pluto TV",Runtime
@@ -405,6 +407,8 @@ https://stream.ichibansys.com:3230/hybrid/play.m3u8
 https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Adesso TV (720p)" tvg-logo="" group-title="Variedades",Adesso TV (720p)
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AgroCanal (720p)" tvg-logo="" group-title="Variedades",AgroCanal (720p)
+http://170.83.49.66:8083/AGROCANALHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Amazon Sat (1080p)" tvg-logo="" group-title="Variedades",Amazon Sat (1080p)
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Araruna TV (614p)" tvg-logo="" group-title="Variedades",Araruna TV (614p)
@@ -415,8 +419,6 @@ https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 http://170.83.16.50/AXN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bem Mais TV (1080p)" tvg-logo="" group-title="Variedades",Bem Mais TV (1080p)
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 25 Jundiaí (404p) [Not 24/7]" tvg-logo="" group-title="Variedades",Canal 25 Jundiaí (404p) [Not 24/7]
-https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 38 (720p)" tvg-logo="" group-title="Variedades",Canal 38 (720p)
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal do Boi (720p)" tvg-logo="" group-title="Variedades",Canal do Boi (720p)
@@ -427,8 +429,6 @@ https://canaleducacao-stream.ebc.com.br/index.m3u8
 https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Metropolitano de Noticias" tvg-logo="" group-title="Variedades",Canal Metropolitano de Noticias
 https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Sete (1080p)" tvg-logo="" group-title="Variedades",Canal Sete (1080p)
-http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal UOL (1080p)" tvg-logo="" group-title="Variedades",Canal UOL (1080p)
 https://video24.mais.uol.com.br/live/6146.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Catve FM (720p) [Not 24/7]" tvg-logo="" group-title="Variedades",Catve FM (720p) [Not 24/7]
@@ -441,8 +441,6 @@ https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINDIE TV (1080p)" tvg-logo="" group-title="Variedades",CINDIE TV (1080p)
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinturao Verde" tvg-logo="" group-title="Variedades",Cinturao Verde
-https://play.redecinturaoverde.com.br/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Classique TV (360p)" tvg-logo="" group-title="Variedades",Classique TV (360p)
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Conecta Mais TV (720p)" tvg-logo="" group-title="Variedades",Conecta Mais TV (720p)
@@ -453,6 +451,8 @@ https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
 https://br.conectmy.com.br/DespertarTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DumDum (720p)" tvg-logo="" group-title="Variedades",DumDum (720p)
 http://186.219.52.187/zoomoo/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Elemental Channel" tvg-logo="" group-title="Variedades",Elemental Channel
+https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ElyTV (360p)" tvg-logo="" group-title="Variedades",ElyTV (360p)
 https://stmv1.srvsite.com/ely/ely/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EUTV (720p)" tvg-logo="" group-title="Variedades",EUTV (720p)
@@ -469,8 +469,6 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IMPD TV Worldwide (1080p)" tvg-logo="" group-title="Variedades",IMPD TV Worldwide (1080p)
 https://igrejamundial.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ISTV (720p) [Not 24/7]" tvg-logo="" group-title="Variedades",ISTV (720p) [Not 24/7]
-https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="L!ke (1080p)" tvg-logo="" group-title="Variedades",L!ke (1080p)
 https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lamore Rock Show WebTV (720p)" tvg-logo="" group-title="Variedades",Lamore Rock Show WebTV (720p)
@@ -537,8 +535,6 @@ https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Arapuan (720p)" tvg-logo="" group-title="Variedades",TV Arapuan (720p)
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Bahia (1080i)" tvg-logo="" group-title="Variedades",TV Bahia (1080i)
-http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Brusque (720p)" tvg-logo="" group-title="Variedades",TV Brusque (720p)
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Camara (720p)" tvg-logo="" group-title="Variedades",TV Camara (720p)
@@ -585,18 +581,16 @@ https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Passo Fundo (720p)" tvg-logo="" group-title="Variedades",TV Passo Fundo (720p)
 https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Petropolis (720p)" tvg-logo="" group-title="Variedades",TV Petropolis (720p)
-https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Series 1 As Panteras (480p)" tvg-logo="" group-title="Variedades",TV Series 1 As Panteras (480p)
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Show Fortaleza (720p)" tvg-logo="" group-title="Variedades",TV Show Fortaleza (720p)
 https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Sim Cachoeiro (720p)" tvg-logo="" group-title="Variedades",TV Sim Cachoeiro (720p)
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Sul Bahia (320p)" tvg-logo="" group-title="Variedades",TV Sul Bahia (320p)
-https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV São Raimundo (268p)" tvg-logo="" group-title="Variedades",TV São Raimundo (268p)
 https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Terceiro Anjo (360p)" tvg-logo="" group-title="Variedades",TV Terceiro Anjo (360p)
+https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV UFOP (1080p)" tvg-logo="" group-title="Variedades",TV UFOP (1080p)
 https://app.tvufop.com.br/hls/tvufop.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Vila Real (720p)" tvg-logo="" group-title="Variedades",TV Vila Real (720p)
@@ -607,6 +601,8 @@ http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV+Pet" tvg-logo="" group-title="Variedades",TV+Pet
 https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVCOM DF (360p)" tvg-logo="" group-title="Variedades",TVCOM DF (360p)
+https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="" tvg-name="TVCOM Maceió (480p)" tvg-logo="" group-title="Variedades",TVCOM Maceió (480p)
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVE RS (1080p)" tvg-logo="" group-title="Variedades",TVE RS (1080p)
