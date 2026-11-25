@@ -53,8 +53,6 @@ https://jmp2.uk/plu-679a973a97782f0008ff4bb6.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Aparecida (1080p) [Not 24/7]" tvg-logo="" group-title="TV Aberta",TV Aparecida (1080p) [Not 24/7]
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Brasil Oeste (720p)" tvg-logo="" group-title="TV Aberta",TV Brasil Oeste (720p)
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Cultura" tvg-logo="" group-title="TV Aberta",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Câmara (1080p)" tvg-logo="" group-title="TV Aberta",TV Câmara (1080p)
@@ -159,6 +157,8 @@ https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8
 https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Kids Club" tvg-logo="" group-title="Desenhos e Kids",Pluto TV Kids Club
 https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Retro Cartoon (720p)" tvg-logo="" group-title="Desenhos e Kids",Retro Cartoon (720p)
+https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Caçadora de Relíquias" tvg-logo="" group-title="Pluto TV",A Caçadora de Relíquias
 https://jmp2.uk/plu-67e59a6557487a8b7fe73e23.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Feiticeira" tvg-logo="" group-title="Pluto TV",A Feiticeira
@@ -171,8 +171,6 @@ https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
 https://jmp2.uk/plu-620d1512c7986a0007220213.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Avatar: A lenda de Aang" tvg-logo="" group-title="Pluto TV",Avatar: A lenda de Aang
 https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Baby Shark TV" tvg-logo="" group-title="Pluto TV",Baby Shark TV
-https://jmp2.uk/plu-63da6bcd60bc8f0008a5d364.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BET Pluto TV" tvg-logo="" group-title="Pluto TV",BET Pluto TV
 https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Beyblade" tvg-logo="" group-title="Pluto TV",Beyblade
@@ -181,10 +179,6 @@ https://jmp2.uk/plu-633dc392e0282400071b0d39.m3u8
 https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Boruto: Naruto Next Generations" tvg-logo="" group-title="Pluto TV",Boruto: Naruto Next Generations
 https://jmp2.uk/plu-656f389c3944b60008e5bdab.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Caçadores de Óvnis" tvg-logo="" group-title="Pluto TV",Caçadores de Óvnis
-https://jmp2.uk/plu-656e2a10954b020008ed167c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Charmed: Jovens Bruxas" tvg-logo="" group-title="Pluto TV",Charmed: Jovens Bruxas
-https://jmp2.uk/plu-67f9602ee173fa5664fafae8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Clube do Terror" tvg-logo="" group-title="Pluto TV",Clube do Terror
 https://jmp2.uk/plu-64e501eec630a900088ed0f8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cocoricó" tvg-logo="" group-title="Pluto TV",Cocoricó
@@ -239,8 +233,6 @@ https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
 https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV Com o Ex" tvg-logo="" group-title="Pluto TV",MTV Com o Ex
 https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV Dating" tvg-logo="" group-title="Pluto TV",MTV Dating
-https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV Jovens e Mães (720p)" tvg-logo="" group-title="Pluto TV",MTV Jovens e Mães (720p)
 https://jmp2.uk/plu-620fdc7d8a36fc000710e3ba.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV Pluto TV" tvg-logo="" group-title="Pluto TV",MTV Pluto TV
@@ -451,6 +443,8 @@ https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINDIE TV (1080p)" tvg-logo="" group-title="Variedades",CINDIE TV (1080p)
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinturao Verde" tvg-logo="" group-title="Variedades",Cinturao Verde
+https://play.redecinturaoverde.com.br/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Classique TV (360p)" tvg-logo="" group-title="Variedades",Classique TV (360p)
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Conecta Mais TV (720p)" tvg-logo="" group-title="Variedades",Conecta Mais TV (720p)
@@ -461,8 +455,6 @@ https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
 https://br.conectmy.com.br/DespertarTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DumDum (720p)" tvg-logo="" group-title="Variedades",DumDum (720p)
 http://186.219.52.187/zoomoo/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Elemental Channel" tvg-logo="" group-title="Variedades",Elemental Channel
-https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ElyTV (360p)" tvg-logo="" group-title="Variedades",ElyTV (360p)
 https://stmv1.srvsite.com/ely/ely/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EUTV (720p)" tvg-logo="" group-title="Variedades",EUTV (720p)
@@ -555,8 +547,6 @@ https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Bahia (1080i)" tvg-logo="" group-title="Variedades",TV Bahia (1080i)
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Brusque (720p)" tvg-logo="" group-title="Variedades",TV Brusque (720p)
-https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV CAJUI WEB (720p)" tvg-logo="" group-title="Variedades",TV CAJUI WEB (720p)
 https://cdn.live.br1.jmvstream.com/webtv/tvcajui/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Camara (720p)" tvg-logo="" group-title="Variedades",TV Camara (720p)
@@ -611,6 +601,8 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Sim Cachoeiro (720p)" tvg-logo="" group-title="Variedades",TV Sim Cachoeiro (720p)
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Sul Bahia (320p)" tvg-logo="" group-title="Variedades",TV Sul Bahia (320p)
+https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV São Raimundo (268p)" tvg-logo="" group-title="Variedades",TV São Raimundo (268p)
 https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Terceiro Anjo (360p)" tvg-logo="" group-title="Variedades",TV Terceiro Anjo (360p)
@@ -629,6 +621,8 @@ https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
 https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="" tvg-name="TVCOM Maceió (480p)" tvg-logo="" group-title="Variedades",TVCOM Maceió (480p)
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVE RS (1080p)" tvg-logo="" group-title="Variedades",TVE RS (1080p)
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVitapé (720p)" tvg-logo="" group-title="Variedades",TVitapé (720p)
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVLatinaSat (720p)" tvg-logo="" group-title="Variedades",TVLatinaSat (720p)
