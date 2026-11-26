@@ -216,12 +216,20 @@
     "number": 27
   },
   {
+    "name": "TV Brasil Oeste (720p)",
+    "category": "TV Aberta",
+    "logo": "",
+    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8",
+    "quality": "HLS HD",
+    "number": 28
+  },
+  {
     "name": "TV Cultura",
     "category": "TV Aberta",
     "logo": "",
     "url": "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8",
     "quality": "HLS HD",
-    "number": 28
+    "number": 29
   },
   {
     "name": "TV Câmara (1080p)",
@@ -229,7 +237,7 @@
     "logo": "",
     "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
     "quality": "HLS HD",
-    "number": 29
+    "number": 30
   },
   {
     "name": "TV Gazeta (720p)",
@@ -237,7 +245,7 @@
     "logo": "",
     "url": "http://186.219.52.187/gazeta/index.m3u8",
     "quality": "HLS HD",
-    "number": 30
+    "number": 31
   },
   {
     "name": "TV Senado (720p)",
@@ -245,7 +253,7 @@
     "logo": "",
     "url": "http://170.83.16.50/TV_SENADO/index.m3u8",
     "quality": "HLS HD",
-    "number": 31
+    "number": 32
   },
   {
     "name": "BM&C News (720p)",
@@ -253,7 +261,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8",
     "quality": "HLS HD",
-    "number": 32
+    "number": 33
   },
   {
     "name": "CBS News (720p)",
@@ -261,7 +269,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-62310f66d5888f0007534342.m3u8",
     "quality": "HLS HD",
-    "number": 33
+    "number": 34
   },
   {
     "name": "Euronews Portuguese (720p)",
@@ -269,7 +277,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8",
     "quality": "HLS HD",
-    "number": 34
+    "number": 35
   },
   {
     "name": "J3NEWS TV",
@@ -277,7 +285,7 @@
     "logo": "",
     "url": "https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 35
+    "number": 36
   },
   {
     "name": "Jovem Pan News (720p)",
@@ -285,7 +293,7 @@
     "logo": "",
     "url": "http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8",
     "quality": "HLS HD",
-    "number": 36
+    "number": 37
   },
   {
     "name": "Pluto TV Record News (720p)",
@@ -293,7 +301,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8",
     "quality": "HLS HD",
-    "number": 37
+    "number": 38
   },
   {
     "name": "TVídeoNews (720p) [Not 24/7]",
@@ -301,7 +309,7 @@
     "logo": "",
     "url": "https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 38
+    "number": 39
   },
   {
     "name": "ESPN (1080p)",
@@ -309,7 +317,7 @@
     "logo": "",
     "url": "http://181.78.197.59:8000/play/a07z/index.m3u8",
     "quality": "HLS HD",
-    "number": 39
+    "number": 40
   },
   {
     "name": "ESPN 3 (720p)",
@@ -317,7 +325,7 @@
     "logo": "",
     "url": "http://181.78.197.59:8000/play/a081/index.m3u8",
     "quality": "HLS HD",
-    "number": 40
+    "number": 41
   },
   {
     "name": "ESPN 4 (1080p)",
@@ -325,7 +333,7 @@
     "logo": "",
     "url": "http://181.78.197.59:8000/play/a07n/index.m3u8",
     "quality": "HLS HD",
-    "number": 41
+    "number": 42
   },
   {
     "name": "Pluto TV Esportes",
@@ -333,7 +341,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8",
     "quality": "HLS HD",
-    "number": 42
+    "number": 43
   },
   {
     "name": "Filmelier TV",
@@ -341,7 +349,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-633dcebd80386500074a2461.m3u8",
     "quality": "HLS HD",
-    "number": 43
+    "number": 44
   },
   {
     "name": "Filmes Suspense",
@@ -349,7 +357,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8",
     "quality": "HLS HD",
-    "number": 44
+    "number": 45
   },
   {
     "name": "Jornada nas Estrelas Deep Space Nine",
@@ -357,7 +365,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8",
     "quality": "HLS HD",
-    "number": 45
+    "number": 46
   },
   {
     "name": "Kuriakos Cine (1080p)",
@@ -365,7 +373,7 @@
     "logo": "",
     "url": "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 46
+    "number": 47
   },
   {
     "name": "Pluto TV Cine Clássicos",
@@ -373,7 +381,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8",
     "quality": "HLS HD",
-    "number": 47
+    "number": 48
   },
   {
     "name": "Pluto TV Cine Comédia",
@@ -381,7 +389,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8",
     "quality": "HLS HD",
-    "number": 48
+    "number": 49
   },
   {
     "name": "Pluto TV Cine Comédia Romântica",
@@ -389,7 +397,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8",
     "quality": "HLS HD",
-    "number": 49
+    "number": 50
   },
   {
     "name": "Pluto TV Cine Crime",
@@ -397,7 +405,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-6479ff764f5ba5000878dfe2.m3u8",
     "quality": "HLS HD",
-    "number": 50
+    "number": 51
   },
   {
     "name": "Pluto TV Cine Drama",
@@ -405,7 +413,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8",
     "quality": "HLS HD",
-    "number": 51
+    "number": 52
   },
   {
     "name": "Pluto TV Cine Família",
@@ -413,7 +421,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8",
     "quality": "HLS HD",
-    "number": 52
+    "number": 53
   },
   {
     "name": "Pluto TV Cine Inspiração",
@@ -421,7 +429,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-5fa991b1f09e020007e78626.m3u8",
     "quality": "HLS HD",
-    "number": 53
+    "number": 54
   },
   {
     "name": "Pluto TV Cine Romance",
@@ -429,7 +437,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8",
     "quality": "HLS HD",
-    "number": 54
+    "number": 55
   },
   {
     "name": "Pluto TV Cine Sucessos",
@@ -437,7 +445,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8",
     "quality": "HLS HD",
-    "number": 55
+    "number": 56
   },
   {
     "name": "Pluto TV Cine Terror",
@@ -445,7 +453,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8",
     "quality": "HLS HD",
-    "number": 56
+    "number": 57
   },
   {
     "name": "Pluto TV Filmes Aventura",
@@ -453,7 +461,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8",
     "quality": "HLS HD",
-    "number": 57
+    "number": 58
   },
   {
     "name": "Pluto TV Filmes Ação",
@@ -461,7 +469,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8",
     "quality": "HLS HD",
-    "number": 58
+    "number": 59
   },
   {
     "name": "Pluto TV Filmes de Luta",
@@ -469,7 +477,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8",
     "quality": "HLS HD",
-    "number": 59
+    "number": 60
   },
   {
     "name": "Pluto TV Filmes Nacionais",
@@ -477,7 +485,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8",
     "quality": "HLS HD",
-    "number": 60
+    "number": 61
   },
   {
     "name": "Sony Channel (720p)",
@@ -485,7 +493,7 @@
     "logo": "",
     "url": "http://170.83.16.50/SONY_CHANNEL/index.m3u8",
     "quality": "HLS HD",
-    "number": 61
+    "number": 62
   },
   {
     "name": "Telecine Cult",
@@ -493,7 +501,7 @@
     "logo": "",
     "url": "http://45.185.15.154:9080/stream/64/index.m3u8",
     "quality": "HLS HD",
-    "number": 62
+    "number": 63
   },
   {
     "name": "Telecine Fun",
@@ -501,7 +509,7 @@
     "logo": "",
     "url": "http://45.185.15.154:9080/stream/63/index.m3u8",
     "quality": "HLS HD",
-    "number": 63
+    "number": 64
   },
   {
     "name": "Telecine Premium",
@@ -509,7 +517,7 @@
     "logo": "",
     "url": "http://45.185.15.154:9080/stream/28/index.m3u8",
     "quality": "HLS HD",
-    "number": 64
+    "number": 65
   },
   {
     "name": "Telecine Touch",
@@ -517,7 +525,7 @@
     "logo": "",
     "url": "http://45.185.15.154:9080/stream/29/index.m3u8",
     "quality": "HLS HD",
-    "number": 65
+    "number": 66
   },
   {
     "name": "The Walking Dead by AMC (720p)",
@@ -525,7 +533,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-678aa104680721c77c506746.m3u8",
     "quality": "HLS HD",
-    "number": 66
+    "number": 67
   },
   {
     "name": "TV Universal (480p)",
@@ -533,7 +541,7 @@
     "logo": "",
     "url": "https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 67
+    "number": 68
   },
   {
     "name": "Box Kids TV (720p)",
@@ -541,7 +549,7 @@
     "logo": "",
     "url": "http://170.83.49.66:8083/BOXKIDSHD/index.m3u8",
     "quality": "HLS HD",
-    "number": 68
+    "number": 69
   },
   {
     "name": "Gospel Cartoon (360p)",
@@ -549,7 +557,7 @@
     "logo": "",
     "url": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 69
+    "number": 70
   },
   {
     "name": "Kuriakos Kids (1080p)",
@@ -557,7 +565,7 @@
     "logo": "",
     "url": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 70
+    "number": 71
   },
   {
     "name": "Nickelodeon (480p)",
@@ -565,7 +573,7 @@
     "logo": "",
     "url": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 71
+    "number": 72
   },
   {
     "name": "Nickelodeon Clássico (720p)",
@@ -573,7 +581,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8",
     "quality": "HLS HD",
-    "number": 72
+    "number": 73
   },
   {
     "name": "Nickelodeon iCarly",
@@ -581,7 +589,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8",
     "quality": "HLS HD",
-    "number": 73
+    "number": 74
   },
   {
     "name": "Nickelodeon Teen (720p)",
@@ -589,7 +597,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8",
     "quality": "HLS HD",
-    "number": 74
+    "number": 75
   },
   {
     "name": "Nickelodeon Toons (720p)",
@@ -597,7 +605,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8",
     "quality": "HLS HD",
-    "number": 75
+    "number": 76
   },
   {
     "name": "O Reino Infantil",
@@ -605,7 +613,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8",
     "quality": "HLS HD",
-    "number": 76
+    "number": 77
   },
   {
     "name": "Pluto TV Desenhos Clássicos",
@@ -613,7 +621,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8",
     "quality": "HLS HD",
-    "number": 77
+    "number": 78
   },
   {
     "name": "Pluto TV Kids",
@@ -621,21 +629,13 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8",
     "quality": "HLS HD",
-    "number": 78
+    "number": 79
   },
   {
     "name": "Pluto TV Kids Club",
     "category": "Desenhos e Kids",
     "logo": "",
     "url": "https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8",
-    "quality": "HLS HD",
-    "number": 79
-  },
-  {
-    "name": "Retro Cartoon (720p)",
-    "category": "Desenhos e Kids",
-    "logo": "",
-    "url": "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8",
     "quality": "HLS HD",
     "number": 80
   },
@@ -1384,12 +1384,20 @@
     "number": 173
   },
   {
+    "name": "Pluto TV Viagens",
+    "category": "Pluto TV",
+    "logo": "",
+    "url": "https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8",
+    "quality": "HLS HD",
+    "number": 174
+  },
+  {
     "name": "Pluto TV Vida Real",
     "category": "Pluto TV",
     "logo": "",
     "url": "https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8",
     "quality": "HLS HD",
-    "number": 174
+    "number": 175
   },
   {
     "name": "Pokémon",
@@ -1397,7 +1405,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-687007a8ee4155e89a8f6d67.m3u8",
     "quality": "HLS HD",
-    "number": 175
+    "number": 176
   },
   {
     "name": "Popeye",
@@ -1405,7 +1413,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-677d93f37bffa600080795e7.m3u8",
     "quality": "HLS HD",
-    "number": 176
+    "number": 177
   },
   {
     "name": "PORTATV",
@@ -1413,7 +1421,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-69440d0611f6c6384ab78306.m3u8",
     "quality": "HLS HD",
-    "number": 177
+    "number": 178
   },
   {
     "name": "Pronto-socorro: Histórias De Emergência",
@@ -1421,7 +1429,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8",
     "quality": "HLS HD",
-    "number": 178
+    "number": 179
   },
   {
     "name": "Red Bull TV BR (720p)",
@@ -1429,7 +1437,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-67813f3162bf016db944c9ab.m3u8",
     "quality": "HLS HD",
-    "number": 179
+    "number": 180
   },
   {
     "name": "Rookie Blue",
@@ -1437,7 +1445,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-64ff2d8c6625510008c5a512.m3u8",
     "quality": "HLS HD",
-    "number": 180
+    "number": 181
   },
   {
     "name": "Runtime",
@@ -1445,7 +1453,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-62c5d32e2c48f9000715b6e9.m3u8",
     "quality": "HLS HD",
-    "number": 181
+    "number": 182
   },
   {
     "name": "Salon Line",
@@ -1453,7 +1461,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-66a7d0e0cd0d310008448610.m3u8",
     "quality": "HLS HD",
-    "number": 182
+    "number": 183
   },
   {
     "name": "SFT Combat (720p)",
@@ -1461,7 +1469,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-6660b636cb3ea10008429c6a.m3u8",
     "quality": "HLS HD",
-    "number": 183
+    "number": 184
   },
   {
     "name": "Smithsonian Channel Pluto TV",
@@ -1469,7 +1477,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8",
     "quality": "HLS HD",
-    "number": 184
+    "number": 185
   },
   {
     "name": "South Park: Coleção Cartman",
@@ -1477,7 +1485,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8",
     "quality": "HLS HD",
-    "number": 185
+    "number": 186
   },
   {
     "name": "South Park: Coleção Kenny",
@@ -1485,7 +1493,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8",
     "quality": "HLS HD",
-    "number": 186
+    "number": 187
   },
   {
     "name": "South Park: Coleção Kyle",
@@ -1493,7 +1501,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8",
     "quality": "HLS HD",
-    "number": 187
+    "number": 188
   },
   {
     "name": "South Park: Coleção Stan",
@@ -1501,7 +1509,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8",
     "quality": "HLS HD",
-    "number": 188
+    "number": 189
   },
   {
     "name": "Super Onze",
@@ -1509,7 +1517,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-63988c2750108d00072e2686.m3u8",
     "quality": "HLS HD",
-    "number": 189
+    "number": 190
   },
   {
     "name": "Tastemade (720p)",
@@ -1517,7 +1525,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8",
     "quality": "HLS HD",
-    "number": 190
+    "number": 191
   },
   {
     "name": "Tastemade Casa (720p)",
@@ -1525,7 +1533,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-68b88821e542386ab0bf5bef.m3u8",
     "quality": "HLS HD",
-    "number": 191
+    "number": 192
   },
   {
     "name": "Tastemade Viagem (720p)",
@@ -1533,7 +1541,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-68b8875777201ec428d9eaa5.m3u8",
     "quality": "HLS HD",
-    "number": 192
+    "number": 193
   },
   {
     "name": "The Pet Collective (720p)",
@@ -1541,7 +1549,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8",
     "quality": "HLS HD",
-    "number": 193
+    "number": 194
   },
   {
     "name": "Tokusato",
@@ -1549,7 +1557,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8",
     "quality": "HLS HD",
-    "number": 194
+    "number": 195
   },
   {
     "name": "Top Barça (720p)",
@@ -1557,7 +1565,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-6888ee858f4a4aa11feb9430.m3u8",
     "quality": "HLS HD",
-    "number": 195
+    "number": 196
   },
   {
     "name": "Turma da Mônica (720p)",
@@ -1565,7 +1573,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8",
     "quality": "HLS HD",
-    "number": 196
+    "number": 197
   },
   {
     "name": "UFC",
@@ -1573,7 +1581,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-69a20556814d27f4ae630a92.m3u8",
     "quality": "HLS HD",
-    "number": 197
+    "number": 198
   },
   {
     "name": "World Poker Tour",
@@ -1581,7 +1589,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-63eba66da8b2270008436b10.m3u8",
     "quality": "HLS HD",
-    "number": 198
+    "number": 199
   },
   {
     "name": "Yu-Gi-Oh",
@@ -1589,7 +1597,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-63988a50be012600070f5db3.m3u8",
     "quality": "HLS HD",
-    "number": 199
+    "number": 200
   },
   {
     "name": "Z Nation",
@@ -1597,7 +1605,7 @@
     "logo": "",
     "url": "https://jmp2.uk/plu-66b3af48d2d50d00083d6936.m3u8",
     "quality": "HLS HD",
-    "number": 200
+    "number": 201
   },
   {
     "name": "AWTV (1080p) [Geo-blocked]",
@@ -1605,7 +1613,7 @@
     "logo": "",
     "url": "https://awtv.nuvemplay.live/hls/stream.m3u8",
     "quality": "HLS HD",
-    "number": 201
+    "number": 202
   },
   {
     "name": "Music Box Brazil (720p)",
@@ -1613,7 +1621,7 @@
     "logo": "",
     "url": "http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8",
     "quality": "HLS HD",
-    "number": 202
+    "number": 203
   },
   {
     "name": "+MaisUm (720p)",
@@ -1621,7 +1629,7 @@
     "logo": "",
     "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
     "quality": "HLS HD",
-    "number": 203
+    "number": 204
   },
   {
     "name": "1001 Noites (480p)",
@@ -1629,7 +1637,7 @@
     "logo": "",
     "url": "https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8",
     "quality": "HLS HD",
-    "number": 204
+    "number": 205
   },
   {
     "name": "Adesso TV (720p)",
@@ -1637,7 +1645,7 @@
     "logo": "",
     "url": "https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 205
+    "number": 206
   },
   {
     "name": "AgroCanal (720p)",
@@ -1645,21 +1653,13 @@
     "logo": "",
     "url": "http://170.83.49.66:8083/AGROCANALHD/index.m3u8",
     "quality": "HLS HD",
-    "number": 206
+    "number": 207
   },
   {
     "name": "Amazon Sat (1080p)",
     "category": "Variedades",
     "logo": "",
     "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
-    "quality": "HLS HD",
-    "number": 207
-  },
-  {
-    "name": "Araruna TV (614p)",
-    "category": "Variedades",
-    "logo": "",
-    "url": "https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8",
     "quality": "HLS HD",
     "number": 208
   },
@@ -1688,18 +1688,18 @@
     "number": 211
   },
   {
-    "name": "Canal 25 Jundiaí (404p) [Not 24/7]",
+    "name": "Boas Novas (1080p)",
     "category": "Variedades",
     "logo": "",
-    "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
+    "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8",
     "quality": "HLS HD",
     "number": 212
   },
   {
-    "name": "Canal 38 (720p)",
+    "name": "Canal 25 Jundiaí (404p) [Not 24/7]",
     "category": "Variedades",
     "logo": "",
-    "url": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8",
+    "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
     "quality": "HLS HD",
     "number": 213
   },
@@ -2000,12 +2000,28 @@
     "number": 250
   },
   {
+    "name": "Plena TV (720p)",
+    "category": "Variedades",
+    "logo": "",
+    "url": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8",
+    "quality": "HLS HD",
+    "number": 251
+  },
+  {
+    "name": "Plenitude TV (1080p)",
+    "category": "Variedades",
+    "logo": "",
+    "url": "https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8",
+    "quality": "HLS HD",
+    "number": 252
+  },
+  {
     "name": "Primer TV (1080p)",
     "category": "Variedades",
     "logo": "",
     "url": "http://200.194.238.229:8383/live/primer/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 251
+    "number": 253
   },
   {
     "name": "RBATV (720p)",
@@ -2013,7 +2029,7 @@
     "logo": "",
     "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 252
+    "number": 254
   },
   {
     "name": "RecordTV",
@@ -2021,7 +2037,7 @@
     "logo": "",
     "url": "https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
     "quality": "HLS HD",
-    "number": 253
+    "number": 255
   },
   {
     "name": "Rede CNT Rio de Janeiro (720p)",
@@ -2029,7 +2045,7 @@
     "logo": "",
     "url": "http://170.83.49.66:8083/REDECNTHD/index.m3u8",
     "quality": "HLS HD",
-    "number": 254
+    "number": 256
   },
   {
     "name": "Rede Familia (720p)",
@@ -2037,7 +2053,7 @@
     "logo": "",
     "url": "http://186.219.52.187/rede_familia/index.m3u8",
     "quality": "HLS HD",
-    "number": 255
+    "number": 257
   },
   {
     "name": "Rede Gospel (1080p)",
@@ -2045,7 +2061,7 @@
     "logo": "",
     "url": "https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 256
+    "number": 258
   },
   {
     "name": "Rede Impacto Gospel TV (720p)",
@@ -2053,7 +2069,7 @@
     "logo": "",
     "url": "https://radiosnet.site/hls/redeimpactogospeltv/redeimpactogospeltv.m3u8",
     "quality": "HLS HD",
-    "number": 257
+    "number": 259
   },
   {
     "name": "Rede Meio Norte (720p)",
@@ -2061,7 +2077,7 @@
     "logo": "",
     "url": "https://maystreaming.cloudecast.com/redemeio/index.m3u8",
     "quality": "HLS HD",
-    "number": 258
+    "number": 260
   },
   {
     "name": "Rede Minas (720p)",
@@ -2069,7 +2085,7 @@
     "logo": "",
     "url": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 259
+    "number": 261
   },
   {
     "name": "Rede NGT (1080p)",
@@ -2077,7 +2093,7 @@
     "logo": "",
     "url": "https://isaocorp.cloudecast.com/ngt/index.m3u8",
     "quality": "HLS HD",
-    "number": 260
+    "number": 262
   },
   {
     "name": "Rede Seculo 21 (720p)",
@@ -2085,7 +2101,7 @@
     "logo": "",
     "url": "http://186.219.52.187/seculo21/index.m3u8",
     "quality": "HLS HD",
-    "number": 261
+    "number": 263
   },
   {
     "name": "Rede SPTV (360p)",
@@ -2093,7 +2109,7 @@
     "logo": "",
     "url": "https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 262
+    "number": 264
   },
   {
     "name": "Rede TV! (720p)",
@@ -2101,7 +2117,7 @@
     "logo": "",
     "url": "http://170.83.16.50/REDE_TV/index.m3u8",
     "quality": "HLS HD",
-    "number": 263
+    "number": 265
   },
   {
     "name": "Rede TV! Mais (720p)",
@@ -2109,7 +2125,7 @@
     "logo": "",
     "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 264
+    "number": 266
   },
   {
     "name": "SESC TV (720p)",
@@ -2117,7 +2133,7 @@
     "logo": "",
     "url": "http://170.83.49.66:8083/SESCTVHD/index.m3u8",
     "quality": "HLS HD",
-    "number": 265
+    "number": 267
   },
   {
     "name": "SIC TV (720p)",
@@ -2125,7 +2141,7 @@
     "logo": "",
     "url": "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8",
     "quality": "HLS HD",
-    "number": 266
+    "number": 268
   },
   {
     "name": "SOU TV (720p)",
@@ -2133,7 +2149,7 @@
     "logo": "",
     "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 267
+    "number": 269
   },
   {
     "name": "STZ TV (1080p)",
@@ -2141,7 +2157,7 @@
     "logo": "",
     "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 268
+    "number": 270
   },
   {
     "name": "TCM 10 HD (1080p)",
@@ -2149,7 +2165,7 @@
     "logo": "",
     "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8",
     "quality": "HLS HD",
-    "number": 269
+    "number": 271
   },
   {
     "name": "Travel Box Brazil (720p)",
@@ -2157,7 +2173,7 @@
     "logo": "",
     "url": "http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8",
     "quality": "HLS HD",
-    "number": 270
+    "number": 272
   },
   {
     "name": "TV Aldeia (720p)",
@@ -2165,7 +2181,7 @@
     "logo": "",
     "url": "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 271
+    "number": 273
   },
   {
     "name": "TV Aliança Catarinense (720p)",
@@ -2173,7 +2189,7 @@
     "logo": "",
     "url": "https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 272
+    "number": 274
   },
   {
     "name": "TV Alternativa (410p)",
@@ -2181,15 +2197,7 @@
     "logo": "",
     "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 273
-  },
-  {
-    "name": "TV Arapuan (720p)",
-    "category": "Variedades",
-    "logo": "",
-    "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
-    "quality": "HLS HD",
-    "number": 274
+    "number": 275
   },
   {
     "name": "TV Bahia (1080i)",
@@ -2197,7 +2205,7 @@
     "logo": "",
     "url": "http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8",
     "quality": "HLS HD",
-    "number": 275
+    "number": 276
   },
   {
     "name": "TV Brusque (720p)",
@@ -2205,7 +2213,7 @@
     "logo": "",
     "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 276
+    "number": 277
   },
   {
     "name": "TV CAJUI WEB (720p)",
@@ -2213,7 +2221,7 @@
     "logo": "",
     "url": "https://cdn.live.br1.jmvstream.com/webtv/tvcajui/playlist/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 277
+    "number": 278
   },
   {
     "name": "TV Camara (720p)",
@@ -2221,7 +2229,7 @@
     "logo": "",
     "url": "http://170.83.49.66:8083/TVCAMARAHD/index.m3u8",
     "quality": "HLS HD",
-    "number": 278
+    "number": 279
   },
   {
     "name": "TV Cancao Nova (720p)",
@@ -2229,7 +2237,7 @@
     "logo": "",
     "url": "http://170.83.16.50/CANCAO_NOVA/index.m3u8",
     "quality": "HLS HD",
-    "number": 279
+    "number": 280
   },
   {
     "name": "TV Cidade Verde Cuiaba",
@@ -2237,7 +2245,7 @@
     "logo": "",
     "url": "https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8",
     "quality": "HLS HD",
-    "number": 280
+    "number": 281
   },
   {
     "name": "TV Clube (720p)",
@@ -2245,7 +2253,7 @@
     "logo": "",
     "url": "https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 281
+    "number": 282
   },
   {
     "name": "TV Curuça (360p)",
@@ -2253,7 +2261,7 @@
     "logo": "",
     "url": "https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 282
+    "number": 283
   },
   {
     "name": "TV Difusao (720p)",
@@ -2261,7 +2269,7 @@
     "logo": "",
     "url": "https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 283
+    "number": 284
   },
   {
     "name": "TV Evangelizar (720p)",
@@ -2269,7 +2277,7 @@
     "logo": "",
     "url": "http://170.83.16.50/TV_EVANGELIZAR/index.m3u8",
     "quality": "HLS HD",
-    "number": 284
+    "number": 285
   },
   {
     "name": "TV Grande Natal (1080p)",
@@ -2277,7 +2285,7 @@
     "logo": "",
     "url": "http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8",
     "quality": "HLS HD",
-    "number": 285
+    "number": 286
   },
   {
     "name": "TV Guarapari (720p)",
@@ -2285,7 +2293,7 @@
     "logo": "",
     "url": "https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 286
+    "number": 287
   },
   {
     "name": "TV Guará (720p) [Not 24/7]",
@@ -2293,7 +2301,7 @@
     "logo": "",
     "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 287
+    "number": 288
   },
   {
     "name": "TV Justica (720p)",
@@ -2301,7 +2309,7 @@
     "logo": "",
     "url": "http://170.83.16.50/TV_JUSTICA/index.m3u8",
     "quality": "HLS HD",
-    "number": 288
+    "number": 289
   },
   {
     "name": "TV Life America (720p)",
@@ -2309,7 +2317,7 @@
     "logo": "",
     "url": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8",
     "quality": "HLS HD",
-    "number": 289
+    "number": 290
   },
   {
     "name": "TV Litoral RN (720p)",
@@ -2317,7 +2325,7 @@
     "logo": "",
     "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 290
+    "number": 291
   },
   {
     "name": "TV Maanaim (720p) [Not 24/7]",
@@ -2325,7 +2333,7 @@
     "logo": "",
     "url": "https://cpbr.appflux.com.br:2000/hls/maranatalive1/maranatalive1.m3u8",
     "quality": "HLS HD",
-    "number": 291
+    "number": 292
   },
   {
     "name": "TV Mais Maricá (1080p)",
@@ -2333,7 +2341,7 @@
     "logo": "",
     "url": "https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 292
+    "number": 293
   },
   {
     "name": "TV Marajoara (720p)",
@@ -2341,7 +2349,15 @@
     "logo": "",
     "url": "https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 293
+    "number": 294
+  },
+  {
+    "name": "TV Metropole (720p) [Not 24/7]",
+    "category": "Variedades",
+    "logo": "",
+    "url": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8",
+    "quality": "HLS HD",
+    "number": 295
   },
   {
     "name": "TV Padre Cicero (720p)",
@@ -2349,7 +2365,7 @@
     "logo": "",
     "url": "https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 294
+    "number": 296
   },
   {
     "name": "TV Pai Eterno (720p)",
@@ -2357,7 +2373,7 @@
     "logo": "",
     "url": "http://186.219.52.187/pai_eterno/index.m3u8",
     "quality": "HLS HD",
-    "number": 295
+    "number": 297
   },
   {
     "name": "TV Pantanal MS (360p) [Not 24/7]",
@@ -2365,7 +2381,7 @@
     "logo": "",
     "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 296
+    "number": 298
   },
   {
     "name": "TV Paraná Turismo (720p) [Not 24/7]",
@@ -2373,7 +2389,7 @@
     "logo": "",
     "url": "http://200.189.113.201/hls/tve.m3u8",
     "quality": "HLS HD",
-    "number": 297
+    "number": 299
   },
   {
     "name": "TV Passo Fundo (720p)",
@@ -2381,7 +2397,7 @@
     "logo": "",
     "url": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 298
+    "number": 300
   },
   {
     "name": "TV Series 1 As Panteras (480p)",
@@ -2389,7 +2405,7 @@
     "logo": "",
     "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 299
+    "number": 301
   },
   {
     "name": "TV Show Fortaleza (720p)",
@@ -2397,7 +2413,7 @@
     "logo": "",
     "url": "https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 300
+    "number": 302
   },
   {
     "name": "TV Sim Cachoeiro (720p)",
@@ -2405,7 +2421,7 @@
     "logo": "",
     "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 301
+    "number": 303
   },
   {
     "name": "TV São Raimundo (268p)",
@@ -2413,7 +2429,7 @@
     "logo": "",
     "url": "https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 302
+    "number": 304
   },
   {
     "name": "TV Terceiro Anjo (360p)",
@@ -2421,7 +2437,7 @@
     "logo": "",
     "url": "https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 303
+    "number": 305
   },
   {
     "name": "TV UFOP (1080p)",
@@ -2429,7 +2445,7 @@
     "logo": "",
     "url": "https://app.tvufop.com.br/hls/tvufop.m3u8",
     "quality": "HLS HD",
-    "number": 304
+    "number": 306
   },
   {
     "name": "TV Vila Real (720p)",
@@ -2437,7 +2453,7 @@
     "logo": "",
     "url": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 305
+    "number": 307
   },
   {
     "name": "TV Zoom (720p)",
@@ -2445,7 +2461,7 @@
     "logo": "",
     "url": "https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 306
+    "number": 308
   },
   {
     "name": "TV+Pet",
@@ -2453,7 +2469,7 @@
     "logo": "",
     "url": "https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 307
+    "number": 309
   },
   {
     "name": "TVCOM DF (360p)",
@@ -2461,7 +2477,7 @@
     "logo": "",
     "url": "https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=",
     "quality": "HLS HD",
-    "number": 308
+    "number": 310
   },
   {
     "name": "TVCOM Maceió (480p)",
@@ -2469,7 +2485,7 @@
     "logo": "",
     "url": "https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 309
+    "number": 311
   },
   {
     "name": "TVE RS (1080p)",
@@ -2477,7 +2493,7 @@
     "logo": "",
     "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 310
+    "number": 312
   },
   {
     "name": "TVitapé (720p)",
@@ -2485,7 +2501,7 @@
     "logo": "",
     "url": "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8",
     "quality": "HLS HD",
-    "number": 311
+    "number": 313
   },
   {
     "name": "TVLatinaSat (720p)",
@@ -2493,7 +2509,7 @@
     "logo": "",
     "url": "https://www.latinasat.com.br/hls/live/stream/index.m3u8",
     "quality": "HLS HD",
-    "number": 312
+    "number": 314
   },
   {
     "name": "TVNBN (720p)",
@@ -2501,7 +2517,7 @@
     "logo": "",
     "url": "https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8",
     "quality": "HLS HD",
-    "number": 313
+    "number": 315
   },
   {
     "name": "UMA TV",
@@ -2509,7 +2525,7 @@
     "logo": "",
     "url": "https://umatv.nuvemplay.live/hls/stream.m3u8",
     "quality": "HLS HD",
-    "number": 314
+    "number": 316
   },
   {
     "name": "UNISUL TV (720p)",
@@ -2517,7 +2533,7 @@
     "logo": "",
     "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=",
     "quality": "HLS HD",
-    "number": 315
+    "number": 317
   },
   {
     "name": "VEJA+ TV (1080p)",
@@ -2525,7 +2541,7 @@
     "logo": "",
     "url": "https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8",
     "quality": "HLS HD",
-    "number": 316
+    "number": 318
   },
   {
     "name": "WooHoo (720p)",
@@ -2533,6 +2549,6 @@
     "logo": "",
     "url": "http://170.83.16.50/WOOHOO/index.m3u8",
     "quality": "HLS HD",
-    "number": 317
+    "number": 319
   }
 ]
