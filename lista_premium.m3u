@@ -13,8 +13,6 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m
 https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ConecTV Brasil (720p)" tvg-logo="" group-title="TV Aberta",ConecTV Brasil (720p)
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cultura Fast (720p)" tvg-logo="" group-title="TV Aberta",Cultura Fast (720p)
-https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mais MasterChef Brasil" tvg-logo="" group-title="TV Aberta",Mais MasterChef Brasil
 https://jmp2.uk/plu-681111be5e0764e297fb200e.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MasterChef Brasil Profissionais" tvg-logo="" group-title="TV Aberta",MasterChef Brasil Profissionais
@@ -413,8 +411,6 @@ https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 http://170.83.16.50/AXN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bem Mais TV (1080p)" tvg-logo="" group-title="Variedades",Bem Mais TV (1080p)
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Boas Novas (1080p)" tvg-logo="" group-title="Variedades",Boas Novas (1080p)
-https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 25 Jundiaí (404p) [Not 24/7]" tvg-logo="" group-title="Variedades",Canal 25 Jundiaí (404p) [Not 24/7]
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 38 (720p)" tvg-logo="" group-title="Variedades",Canal 38 (720p)
@@ -427,6 +423,8 @@ https://canaleducacao-stream.ebc.com.br/index.m3u8
 https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Metropolitano de Noticias" tvg-logo="" group-title="Variedades",Canal Metropolitano de Noticias
 https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sete (1080p)" tvg-logo="" group-title="Variedades",Canal Sete (1080p)
+http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal UOL (1080p)" tvg-logo="" group-title="Variedades",Canal UOL (1080p)
 https://video24.mais.uol.com.br/live/6146.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Catve FM (720p) [Not 24/7]" tvg-logo="" group-title="Variedades",Catve FM (720p) [Not 24/7]
